@@ -1,0 +1,1001 @@
+product_name;version;http_response_code;http_response_body;response_time;content_length;path;cve_number;status
+Caddy;2.4.4;502;<html><body>Server Error</body></html>;183;2504;/admincp/login.php;CVE-2012-6846;safe
+Nginx;1.20.2;404;<html><body>Server Error</body></html>;106;2186;/administrator/index.php;CVE-2017-46196;exploitable
+Lighttpd;1.4.63;400;<html><body>Success</body></html>;254;2798;/administrator/login.php;CVE-2011-43689;safe
+LiteSpeed;5.3.7;200;<html><body>Server Error</body></html>;209;1330;/admin;CVE-2023-25690;safe
+Node.js;14.17.0;503;<html><body>Unauthorized</body></html>;276;1637;/admin/login;CVE-2016-59107;exploitable
+H2O;2.2.4;200;<html><body>Server Error</body></html>;223;3441;/admin;CVE-2012-76459;safe
+H2O;2.2.5;404;<html><body>Success</body></html>;283;4669;/user/login.html;CVE-2015-60213;safe
+Apache;2.4.54;401;<html><body>Success</body></html>;238;3150;/admincp/login;CVE-2000-29727;exploitable
+OpenResty;1.19.9.1;200;<html><body>Unauthorized</body></html>;278;4414;/user;CVE-2005-88677;exploitable
+Apache;2.4.54;502;<html><body>Forbidden</body></html>;209;4412;/admin/login;CVE-2019-42491;exploitable
+H2O;2.2.5;400;<html><body>Unauthorized</body></html>;262;1238;/admin;CVE-2008-32975;safe
+Caddy;2.4.6;403;<html><body>Server Error</body></html>;172;1145;/login;CVE-1999-92961;safe
+Lighttpd;1.4.55;200;<html><body>Success</body></html>;125;4725;/login;CVE-2019-88295;safe
+Nginx;1.18.0;200;<html><body>Not Found</body></html>;264;3554;/admin/login;CVE-2016-14374;exploitable
+Apache;2.4.52;200;<html><body>Success</body></html>;110;1481;/user/login.jsp;CVE-2004-22835;exploitable
+LiteSpeed;5.4.10;502;<html><body>Forbidden</body></html>;234;4854;/admin;CVE-2000-38297;safe
+Lighttpd;1.4.45;404;<html><body>Forbidden</body></html>;267;4742;/administrator/index.php;CVE-2004-66645;safe
+Lighttpd;1.4.45;400;<html><body>Forbidden</body></html>;200;3356;/admincp/login;CVE-2000-12152;safe
+LiteSpeed;6.0.12;403;<html><body>Not Found</body></html>;257;4509;/admincp/login.php;CVE-2012-8375;safe
+OpenResty;1.19.3.1;502;<html><body>Not Found</body></html>;253;816;/admin;CVE-2009-90796;exploitable
+H2O;2.2.4;403;<html><body>Unauthorized</body></html>;300;550;/admin;CVE-2004-49068;safe
+LiteSpeed;5.3.7;200;<html><body>Forbidden</body></html>;218;3491;/admin;CVE-2021-84426;safe
+H2O;2.2.5;401;<html><body>Not Found</body></html>;169;1653;/login;CVE-2002-15736;safe
+Node.js;14.17.0;200;<html><body>Success</body></html>;275;3954;/admin/login;CVE-2012-4913;exploitable
+Microsoft IIS;10.0;200;<html><body>Forbidden</body></html>;150;2680;/administrator/login.php;CVE-2017-93289;exploitable
+OpenResty;1.15.8.2;502;<html><body>Success</body></html>;216;2003;/admincp/login.html;CVE-1999-86858;exploitable
+LiteSpeed;6.0.12;401;<html><body>Success</body></html>;106;4351;/user/login.xhtml;CVE-2002-98927;safe
+Caddy;2.4.6;500;<html><body>Forbidden</body></html>;102;4510;/admincp;CVE-2010-89109;safe
+Apache;2.4.54;503;<html><body>Forbidden</body></html>;156;3229;/admin;CVE-2005-39106;exploitable
+Microsoft IIS;7.5;500;<html><body>Not Found</body></html>;259;3653;/admin;CVE-2021-18803;exploitable
+Node.js;12.18.3;301;<html><body>Forbidden</body></html>;122;2494;/admin/signin/index;CVE-2011-4710;exploitable
+Caddy;2.4.6;401;<html><body>Not Found</body></html>;177;4392;/admin;CVE-2013-82483;safe
+H2O;2.2.6;500;<html><body>Forbidden</body></html>;111;2442;/admin;CVE-2023-19308;safe
+Microsoft IIS;7.5;403;<html><body>Server Error</body></html>;226;4328;/admin;CVE-2019-58649;exploitable
+Lighttpd;1.4.55;400;<html><body>Success</body></html>;250;2361;/wp-admin;CVE-2006-57233;safe
+LiteSpeed;5.3.7;502;<html><body>Unauthorized</body></html>;267;2381;/admin;CVE-2018-59081;safe
+OpenResty;1.19.9.1;401;<html><body>Not Found</body></html>;294;1624;/admin;CVE-2006-36903;exploitable
+Microsoft IIS;7.5;200;<html><body>Forbidden</body></html>;229;3238;/admin;CVE-2008-59420;exploitable
+Node.js;10.24.1;403;<html><body>Success</body></html>;294;691;/admin;CVE-2006-30185;safe
+Node.js;10.24.1;502;<html><body>Server Error</body></html>;194;2436;/wp-admin.php;CVE-2014-51377;exploitable
+Tomcat;9.0.52;301;<html><body>Forbidden</body></html>;142;3600;/backend;CVE-2011-73971;safe
+Nginx;1.19.10;404;<html><body>Server Error</body></html>;289;1156;/admin;CVE-2021-78764;exploitable
+Nginx;1.18.0;401;<html><body>Not Found</body></html>;243;590;/admin;CVE-2019-44371;exploitable
+Apache;2.4.53;200;<html><body>Forbidden</body></html>;159;1120;/user/login.jsf;CVE-2007-85080;exploitable
+Microsoft IIS;8.5;200;<html><body>Success</body></html>;169;1252;/administrator/login.php;CVE-2003-12969;exploitable
+OpenResty;1.19.3.1;200;<html><body>Not Found</body></html>;209;3576;/admin/dashboard;CVE-2014-7308;exploitable
+Nginx;1.18.0;200;<html><body>Unauthorized</body></html>;182;859;/admin;CVE-2003-51312;exploitable
+OpenResty;1.19.3.1;200;<html><body>Unauthorized</body></html>;228;3845;/admin/index;CVE-2003-18803;safe
+Caddy;2.4.6;200;<html><body>Not Found</body></html>;272;3592;/admin;CVE-2017-11454;safe
+LiteSpeed;5.3.7;200;<html><body>Not Found</body></html>;188;4774;/wp-login.php;CVE-2018-74522;safe
+Node.js;10.24.1;200;<html><body>Success</body></html>;237;3302;/wp-admin.php;CVE-2018-56780;safe
+Tomcat;9.0.52;200;<html><body>Server Error</body></html>;145;4915;/admin;CVE-2006-89632;safe
+Caddy;2.4.6;200;<html><body>Not Found</body></html>;135;3125;/admin;CVE-2016-83340;safe
+Microsoft IIS;8.5;200;<html><body>Unauthorized</body></html>;205;1280;/admin;CVE-2007-25169;exploitable
+Caddy;2.4.6;200;<html><body>Unauthorized</body></html>;137;2328;/admin;CVE-2000-22769;safe
+Tomcat;8.5.70;200;<html><body>Success</body></html>;130;1640;/admin;CVE-1999-18222;safe
+LiteSpeed;6.0.12;400;<html><body>Unauthorized</body></html>;176;4182;/admin/signin/index;CVE-2016-44984;safe
+Node.js;12.18.3;404;<html><body>Forbidden</body></html>;121;4445;/admin;CVE-2023-67414;exploitable
+H2O;2.2.4;403;<html><body>Success</body></html>;155;3918;/admin;CVE-2019-44296;safe
+Tomcat;8.5.70;502;<html><body>Success</body></html>;112;784;/admin;CVE-2022-19879;safe
+Apache;2.4.53;403;<html><body>Forbidden</body></html>;251;3597;/admin/signin/index/index;CVE-2002-30797;exploitable
+Caddy;2.4.6;502;<html><body>Not Found</body></html>;211;3127;/admin;CVE-2013-32510;safe
+OpenResty;1.19.3.1;400;<html><body>Success</body></html>;211;916;/admin/index.php;CVE-2004-77405;safe
+Lighttpd;1.4.55;200;<html><body>Unauthorized</body></html>;189;2469;/admin;CVE-2018-27419;safe
+H2O;2.2.5;200;<html><body>Unauthorized</body></html>;218;4616;/admin;CVE-2013-65136;safe
+H2O;2.2.4;500;<html><body>Server Error</body></html>;149;4662;/login;CVE-2007-72734;safe
+OpenResty;1.19.3.1;200;<html><body>Not Found</body></html>;252;4518;/admin;CVE-2018-24000;exploitable
+H2O;2.2.4;502;<html><body>Not Found</body></html>;122;4762;/admin;CVE-2009-86514;safe
+H2O;2.2.6;500;<html><body>Not Found</body></html>;205;2153;/admin;CVE-2024-51606;safe
+Node.js;10.24.1;200;<html><body>Success</body></html>;181;1652;/admincp/login;CVE-1999-8269;exploitable
+Apache;2.4.54;404;<html><body>Server Error</body></html>;244;4367;/admin;CVE-2014-18136;exploitable
+H2O;2.2.4;503;<html><body>Not Found</body></html>;165;1502;/wp-login.php;CVE-2008-63692;safe
+Nginx;1.19.10;400;<html><body>Success</body></html>;193;4311;/admin;CVE-2007-7630;exploitable
+Apache;2.4.53;503;<html><body>Server Error</body></html>;137;2179;/admin;CVE-2005-45702;exploitable
+Lighttpd;1.4.63;503;<html><body>Success</body></html>;281;1557;/wp-admin.php;CVE-2008-11379;safe
+Tomcat;8.5.70;200;<html><body>Server Error</body></html>;126;4120;/admin;CVE-2001-74647;safe
+Node.js;12.18.3;200;<html><body>Server Error</body></html>;204;3703;/admin;CVE-2007-76944;safe
+Caddy;2.4.5;200;<html><body>Server Error</body></html>;173;3433;/admin/signin/index;CVE-2000-69341;safe
+Apache;2.4.54;200;<html><body>Server Error</body></html>;196;926;/admin;CVE-2018-18848;exploitable
+Lighttpd;1.4.55;200;<html><body>Forbidden</body></html>;135;3092;/admin;CVE-2010-83956;safe
+Lighttpd;1.4.63;200;<html><body>Not Found</body></html>;203;1358;/admincp/index.php;CVE-2005-19852;safe
+Nginx;1.19.10;200;<html><body>Unauthorized</body></html>;112;2774;/admin;CVE-2010-61930;exploitable
+Apache;2.4.52;200;<html><body>Not Found</body></html>;163;4409;/administrator/login.php;CVE-2003-76150;exploitable
+OpenResty;1.19.9.1;200;<html><body>Forbidden</body></html>;291;1338;/admin;CVE-2003-75751;exploitable
+H2O;2.2.6;200;<html><body>Not Found</body></html>;212;4144;/admin/dashboard;CVE-2009-3839;safe
+Tomcat;8.5.70;503;<html><body>Forbidden</body></html>;135;4192;/admin;CVE-2004-9548;safe
+Microsoft IIS;10.0;503;<html><body>Forbidden</body></html>;193;4174;/admin;CVE-2016-8590;exploitable
+LiteSpeed;6.0.12;200;<html><body>Forbidden</body></html>;299;1724;/admin;CVE-2014-45116;safe
+Nginx;1.18.0;200;<html><body>Forbidden</body></html>;122;3738;/admin;CVE-2010-3380;exploitable
+Apache;2.4.53;200;<html><body>Server Error</body></html>;191;4472;/admin;CVE-2022-14532;exploitable
+LiteSpeed;6.0.12;200;<html><body>Forbidden</body></html>;243;992;/admin;CVE-2020-44152;safe
+Nginx;1.20.2;200;<html><body>Forbidden</body></html>;163;2062;/admin;CVE-2011-89808;exploitable
+Node.js;14.17.0;200;<html><body>Not Found</body></html>;109;1746;/admin;CVE-2000-44516;exploitable
+Caddy;2.4.4;401;<html><body>Success</body></html>;298;1109;/admin;CVE-2005-65705;safe
+Node.js;12.18.3;403;<html><body>Not Found</body></html>;110;4051;/admin/backend;CVE-2011-49310;exploitable
+H2O;2.2.4;200;<html><body>Forbidden</body></html>;163;2380;/admincp;CVE-1999-83630;safe
+Tomcat;7.0.109;200;<html><body>Success</body></html>;116;2087;/administrator;CVE-2015-2129;safe
+Tomcat;9.0.52;301;<html><body>Success</body></html>;279;4473;/admin;CVE-1999-65002;safe
+Node.js;12.18.3;200;<html><body>Server Error</body></html>;104;3013;/admin/login;CVE-2009-42557;safe
+Microsoft IIS;7.5;401;<html><body>Not Found</body></html>;260;604;/user/login.cgi;CVE-2013-85882;exploitable
+Caddy;2.4.5;400;<html><body>Not Found</body></html>;122;2841;/admin;CVE-2001-99975;safe
+Nginx;1.18.0;301;<html><body>Server Error</body></html>;252;4157;/admincp/login;CVE-2011-41178;exploitable
+OpenResty;1.19.3.1;403;<html><body>Not Found</body></html>;291;2789;/admin;CVE-2016-40267;exploitable
+Apache;2.4.53;404;<html><body>Success</body></html>;192;4088;/admin;CVE-2009-59037;exploitable
+OpenResty;1.15.8.2;502;<html><body>Success</body></html>;252;3062;/administrator/index.php;CVE-1999-60310;exploitable
+Apache;2.4.54;502;<html><body>Forbidden</body></html>;231;2973;/admin;CVE-2006-95095;exploitable
+Microsoft IIS;10.0;301;<html><body>Not Found</body></html>;109;4866;/admin;CVE-2000-39283;exploitable
+Caddy;2.4.4;404;<html><body>Unauthorized</body></html>;182;4621;/admin;CVE-2019-32340;safe
+Node.js;10.24.1;301;<html><body>Unauthorized</body></html>;260;2216;/user/login.cgi;CVE-2010-7532;exploitable
+Nginx;1.18.0;401;<html><body>Unauthorized</body></html>;251;4025;/admin;CVE-2024-33890;exploitable
+Node.js;14.17.0;404;<html><body>Not Found</body></html>;129;4405;/admin/signin;CVE-2002-42436;exploitable
+H2O;2.2.5;401;<html><body>Forbidden</body></html>;133;3500;/admin;CVE-2019-55763;safe
+Apache;2.4.53;503;<html><body>Success</body></html>;171;1380;/administrator/login.php;CVE-2003-9279;exploitable
+Apache;2.4.52;404;<html><body>Success</body></html>;132;4992;/admin;CVE-2016-6548;exploitable
+Apache;2.4.54;500;<html><body>Server Error</body></html>;269;4412;/admincp;CVE-2000-65043;exploitable
+Lighttpd;1.4.45;200;<html><body>Server Error</body></html>;104;2562;/admin;CVE-2013-52936;safe
+Node.js;12.18.3;400;<html><body>Forbidden</body></html>;258;3134;/admin;CVE-1999-79116;exploitable
+H2O;2.2.4;500;<html><body>Server Error</body></html>;151;2569;/user/login.cgi;CVE-2002-93725;safe
+Microsoft IIS;7.5;401;<html><body>Not Found</body></html>;172;4118;/wp-login.php;CVE-2011-75622;exploitable
+Caddy;2.4.5;301;<html><body>Server Error</body></html>;298;4372;/login;CVE-2007-37852;safe
+Microsoft IIS;8.5;400;<html><body>Forbidden</body></html>;107;3818;/admin;CVE-1999-89347;exploitable
+Apache;2.4.52;301;<html><body>Server Error</body></html>;146;1193;/admin;CVE-2013-66208;exploitable
+LiteSpeed;5.4.10;500;<html><body>Forbidden</body></html>;265;2462;/admin;CVE-2013-76599;safe
+Caddy;2.4.6;404;<html><body>Success</body></html>;101;3775;/admin/signin/login;CVE-2018-88928;safe
+Tomcat;7.0.109;503;<html><body>Unauthorized</body></html>;292;1541;/admin;CVE-2021-88916;safe
+Caddy;2.4.6;500;<html><body>Server Error</body></html>;292;1542;/admin;CVE-2009-28983;safe
+OpenResty;1.19.9.1;403;<html><body>Unauthorized</body></html>;139;818;/administrator;CVE-2010-98493;exploitable
+LiteSpeed;5.3.7;500;<html><body>Unauthorized</body></html>;146;2529;/admin;CVE-2014-52666;safe
+Caddy;2.4.4;502;<html><body>Success</body></html>;230;985;/user/login.cgi;CVE-2003-49182;safe
+Lighttpd;1.4.55;401;<html><body>Forbidden</body></html>;285;1629;/admin;CVE-2019-15651;safe
+Microsoft IIS;8.5;400;<html><body>Not Found</body></html>;296;1117;/admin;CVE-2019-73937;exploitable
+Microsoft IIS;8.5;503;<html><body>Success</body></html>;260;2139;/admin;CVE-2004-34850;exploitable
+LiteSpeed;6.0.12;401;<html><body>Forbidden</body></html>;284;1227;/wp-login.php;CVE-2021-85037;safe
+Nginx;1.18.0;301;<html><body>Unauthorized</body></html>;236;1736;/admin;CVE-2016-5486;exploitable
+LiteSpeed;6.0.12;200;<html><body>Unauthorized</body></html>;143;1181;/login;CVE-2002-17769;safe
+Microsoft IIS;10.0;404;<html><body>Forbidden</body></html>;212;678;/admin;CVE-2003-49852;exploitable
+OpenResty;1.15.8.2;301;<html><body>Forbidden</body></html>;102;2034;/admin/backend;CVE-2008-22467;exploitable
+OpenResty;1.19.9.1;503;<html><body>Server Error</body></html>;199;2223;/admin;CVE-2011-86653;exploitable
+Tomcat;7.0.109;301;<html><body>Not Found</body></html>;215;1142;/admin;CVE-2001-76216;safe
+Caddy;2.4.6;500;<html><body>Forbidden</body></html>;185;801;/admin;CVE-2008-80794;safe
+Caddy;2.4.6;301;<html><body>Server Error</body></html>;121;3153;/administrator;CVE-2001-1326;safe
+Node.js;12.18.3;503;<html><body>Server Error</body></html>;168;1889;/admincp/login;CVE-2023-84819;safe
+Lighttpd;1.4.45;403;<html><body>Forbidden</body></html>;153;1970;/admin;CVE-2023-82094;safe
+Caddy;2.4.4;403;<html><body>Success</body></html>;235;1581;/admin;CVE-2016-33284;safe
+Microsoft IIS;7.5;403;<html><body>Success</body></html>;184;1198;/admin/login.php;CVE-2019-82219;exploitable
+Tomcat;8.5.70;401;<html><body>Unauthorized</body></html>;276;911;/admincp/login.html;CVE-2020-51399;safe
+Microsoft IIS;8.5;500;<html><body>Forbidden</body></html>;288;500;/admin/index.php;CVE-2012-66579;exploitable
+Node.js;10.24.1;301;<html><body>Unauthorized</body></html>;240;2795;/user/login.jsp;CVE-2014-69378;exploitable
+Node.js;12.18.3;502;<html><body>Not Found</body></html>;243;1419;/wp/wp-login.php;CVE-2013-33178;exploitable
+H2O;2.2.6;502;<html><body>Forbidden</body></html>;292;4433;/admin;CVE-1999-27395;safe
+Apache;2.4.54;200;<html><body>Forbidden</body></html>;101;4446;/backend;CVE-2010-93919;exploitable
+H2O;2.2.6;301;<html><body>Unauthorized</body></html>;142;4598;/admin;CVE-2023-77200;safe
+Node.js;14.17.0;500;<html><body>Unauthorized</body></html>;188;4168;/admin;CVE-2017-98031;exploitable
+H2O;2.2.4;502;<html><body>Forbidden</body></html>;123;781;/admin;CVE-1999-99181;safe
+Node.js;12.18.3;500;<html><body>Forbidden</body></html>;232;1109;/admin/login;CVE-2009-44542;exploitable
+Microsoft IIS;8.5;404;<html><body>Not Found</body></html>;295;2136;/admin/index;CVE-2023-32868;exploitable
+Caddy;2.4.4;403;<html><body>Unauthorized</body></html>;183;554;/login;CVE-2018-19383;safe
+Node.js;14.17.0;200;<html><body>Server Error</body></html>;213;1748;/administrator/login.php;CVE-2015-39107;exploitable
+Microsoft IIS;7.5;401;<html><body>Success</body></html>;224;4913;/admin;CVE-2016-89275;exploitable
+LiteSpeed;5.4.10;403;<html><body>Forbidden</body></html>;297;1002;/admin;CVE-2005-94244;safe
+Tomcat;7.0.109;404;<html><body>Not Found</body></html>;296;1612;/wp/wp-login.php;CVE-2008-1933;safe
+Apache;2.4.53;301;<html><body>Success</body></html>;203;1892;/admincp/login;CVE-2016-50423;exploitable
+Tomcat;9.0.52;403;<html><body>Not Found</body></html>;214;1994;/admin;CVE-2018-73161;safe
+OpenResty;1.15.8.2;404;<html><body>Not Found</body></html>;229;1205;/admin/dashboard;CVE-2015-80275;exploitable
+H2O;2.2.5;500;<html><body>Server Error</body></html>;146;2811;/admin;CVE-2010-52172;safe
+Tomcat;7.0.109;301;<html><body>Unauthorized</body></html>;120;3521;/admin;CVE-2019-87600;safe
+Caddy;2.4.5;403;<html><body>Unauthorized</body></html>;268;1471;/user;CVE-2020-96487;safe
+LiteSpeed;5.3.7;400;<html><body>Forbidden</body></html>;141;564;/admin;CVE-2008-26239;safe
+LiteSpeed;5.4.10;400;<html><body>Unauthorized</body></html>;198;523;/user/login.ashx;CVE-2006-10992;safe
+Node.js;14.17.0;502;<html><body>Unauthorized</body></html>;124;657;/administrator/index.php;CVE-2022-33138;safe
+H2O;2.2.5;503;<html><body>Forbidden</body></html>;123;4006;/admin;CVE-2024-20228;safe
+Caddy;2.4.6;301;<html><body>Success</body></html>;212;4357;/admin;CVE-1999-32089;safe
+Node.js;14.17.0;500;<html><body>Forbidden</body></html>;200;727;/shop/login;CVE-2021-26319;exploitable
+OpenResty;1.19.3.1;503;<html><body>Forbidden</body></html>;117;3661;/administrator/login.php;CVE-2013-13819;exploitable
+Lighttpd;1.4.45;502;<html><body>Success</body></html>;276;3692;/user;CVE-2009-13163;safe
+Tomcat;8.5.70;200;<html><body>Server Error</body></html>;116;1995;/admin;CVE-2020-10024;safe
+Microsoft IIS;7.5;502;<html><body>Forbidden</body></html>;272;1176;/admin;CVE-2001-37152;exploitable
+LiteSpeed;5.3.7;500;<html><body>Success</body></html>;266;2821;/admin;CVE-2016-54017;safe
+H2O;2.2.6;500;<html><body>Success</body></html>;288;1339;/admincp/login.html;CVE-2014-58118;safe
+Microsoft IIS;7.5;400;<html><body>Forbidden</body></html>;152;3801;/admin;CVE-2015-3929;exploitable
+OpenResty;1.19.9.1;403;<html><body>Unauthorized</body></html>;235;1894;/administrator/index.php;CVE-1999-27258;exploitable
+OpenResty;1.15.8.2;403;<html><body>Forbidden</body></html>;237;3049;/admin;CVE-2010-47195;exploitable
+Caddy;2.4.6;503;<html><body>Server Error</body></html>;178;2915;/admin;CVE-2009-11323;safe
+Tomcat;7.0.109;500;<html><body>Success</body></html>;145;707;/admin/signin/login;CVE-2009-15001;safe
+Apache;2.4.53;301;<html><body>Forbidden</body></html>;139;4619;/admin;CVE-2003-6768;exploitable
+H2O;2.2.6;403;<html><body>Not Found</body></html>;211;2846;/user/login.jsp;CVE-2019-59861;safe
+Nginx;1.18.0;400;<html><body>Not Found</body></html>;181;4492;/admin;CVE-2008-85920;exploitable
+Lighttpd;1.4.63;400;<html><body>Forbidden</body></html>;264;2859;/login;CVE-2003-30509;safe
+Microsoft IIS;8.5;500;<html><body>Success</body></html>;249;2489;/admin;CVE-2007-95375;exploitable
+H2O;2.2.6;200;<html><body>Server Error</body></html>;104;2663;/admin;CVE-2011-66867;safe
+Node.js;12.18.3;502;<html><body>Success</body></html>;126;4473;/admin;CVE-2016-6093;exploitable
+Node.js;14.17.0;500;<html><body>Success</body></html>;211;3392;/admin;CVE-2021-32678;exploitable
+LiteSpeed;5.4.10;404;<html><body>Success</body></html>;233;3042;/user/login.ashx;CVE-2018-91485;safe
+Microsoft IIS;7.5;301;<html><body>Success</body></html>;250;1031;/admin;CVE-2006-45283;exploitable
+Caddy;2.4.5;502;<html><body>Forbidden</body></html>;146;2518;/admin/login;CVE-2017-17780;safe
+Caddy;2.4.6;200;<html><body>Unauthorized</body></html>;232;809;/admin/signin/index;CVE-2003-43054;safe
+Nginx;1.19.10;500;<html><body>Server Error</body></html>;285;1539;/admin/login.php;CVE-2004-29711;exploitable
+Tomcat;8.5.70;500;<html><body>Server Error</body></html>;261;989;/admincp/login.php;CVE-2023-16715;safe
+Microsoft IIS;8.5;403;<html><body>Server Error</body></html>;104;3105;/admin;CVE-2020-82517;exploitable
+OpenResty;1.15.8.2;503;<html><body>Server Error</body></html>;132;2052;/admin;CVE-2008-79600;safe
+H2O;2.2.4;200;<html><body>Forbidden</body></html>;193;3631;/admin;CVE-2001-5651;safe
+Microsoft IIS;7.5;400;<html><body>Not Found</body></html>;144;3127;/user/login.aspx;CVE-2021-1453;exploitable
+Tomcat;9.0.52;301;<html><body>Success</body></html>;220;586;/admin;CVE-2009-90626;safe
+Node.js;10.24.1;500;<html><body>Forbidden</body></html>;133;4598;/admin;CVE-2020-18724;safe
+Lighttpd;1.4.45;200;<html><body>Unauthorized</body></html>;239;1946;/admin;CVE-2004-26318;safe
+Apache;2.4.52;400;<html><body>Not Found</body></html>;206;678;/admin;CVE-2013-30021;exploitable
+Caddy;2.4.4;500;<html><body>Unauthorized</body></html>;247;865;/admin;CVE-2014-11826;safe
+Microsoft IIS;8.5;502;<html><body>Forbidden</body></html>;126;4039;/admin;CVE-2024-30594;exploitable
+H2O;2.2.4;200;<html><body>Success</body></html>;290;2323;/admin/login;CVE-2015-15395;safe
+OpenResty;1.15.8.2;500;<html><body>Unauthorized</body></html>;253;3740;/admin;CVE-2016-38453;exploitable
+LiteSpeed;6.0.12;403;<html><body>Success</body></html>;238;2603;/admin;CVE-2011-34135;safe
+OpenResty;1.19.3.1;301;<html><body>Unauthorized</body></html>;290;3100;/admin;CVE-2005-26376;safe
+Lighttpd;1.4.45;301;<html><body>Server Error</body></html>;111;2101;/user/login.aspx;CVE-2009-17130;safe
+Node.js;14.17.0;404;<html><body>Success</body></html>;271;2654;/user/login;CVE-2020-45315;safe
+H2O;2.2.5;200;<html><body>Server Error</body></html>;104;2329;/admin;CVE-2016-5052;safe
+OpenResty;1.19.3.1;502;<html><body>Server Error</body></html>;127;4757;/admincp/login.php;CVE-2012-59365;exploitable
+Nginx;1.20.2;401;<html><body>Server Error</body></html>;250;3211;/admincp/login;CVE-2003-64442;exploitable
+Node.js;14.17.0;404;<html><body>Unauthorized</body></html>;299;2452;/admin;CVE-2002-85048;exploitable
+Tomcat;9.0.52;401;<html><body>Forbidden</body></html>;110;3066;/admincp/login;CVE-2002-6046;safe
+Microsoft IIS;10.0;403;<html><body>Not Found</body></html>;144;3262;/admin;CVE-2000-55733;exploitable
+Microsoft IIS;10.0;404;<html><body>Forbidden</body></html>;206;2984;/admin;CVE-2019-43215;exploitable
+Tomcat;9.0.52;500;<html><body>Unauthorized</body></html>;181;945;/woocommerce/login;CVE-2021-61479;safe
+H2O;2.2.6;502;<html><body>Unauthorized</body></html>;272;2472;/admin;CVE-2006-6584;safe
+Lighttpd;1.4.55;503;<html><body>Success</body></html>;176;3032;/admin;CVE-2013-94308;safe
+Tomcat;9.0.52;404;<html><body>Success</body></html>;257;2119;/admincp/login.html;CVE-2000-64608;safe
+OpenResty;1.19.9.1;500;<html><body>Success</body></html>;139;2952;/admin;CVE-2015-81672;exploitable
+H2O;2.2.5;503;<html><body>Success</body></html>;238;2398;/admin/login.php;CVE-2024-13157;safe
+Microsoft IIS;10.0;401;<html><body>Success</body></html>;209;2304;/admin;CVE-2008-89521;exploitable
+Apache;2.4.53;400;<html><body>Success</body></html>;101;3521;/admincp/login.php;CVE-2020-19295;exploitable
+Caddy;2.4.6;200;<html><body>Forbidden</body></html>;147;1564;/admin;CVE-2011-16908;safe
+Apache;2.4.53;301;<html><body>Success</body></html>;237;1986;/user/login.cgi;CVE-2000-65554;exploitable
+OpenResty;1.19.3.1;503;<html><body>Forbidden</body></html>;114;4989;/user;CVE-2019-18849;exploitable
+Node.js;12.18.3;400;<html><body>Forbidden</body></html>;287;4755;/admin;CVE-2010-50006;exploitable
+Apache;2.4.54;404;<html><body>Forbidden</body></html>;240;2821;/admin;CVE-2024-73141;exploitable
+H2O;2.2.4;403;<html><body>Not Found</body></html>;172;1466;/user/login.ashx;CVE-2011-58732;safe
+OpenResty;1.19.9.1;403;<html><body>Success</body></html>;264;3463;/admin;CVE-2002-98329;exploitable
+Apache;2.4.54;403;<html><body>Unauthorized</body></html>;132;2169;/admin;CVE-2020-27157;exploitable
+Apache;2.4.53;200;<html><body>Success</body></html>;162;4444;/administrator/login.php;CVE-2021-76547;exploitable
+Apache;2.4.52;403;<html><body>Success</body></html>;232;1267;/admin;CVE-2014-39677;exploitable
+LiteSpeed;5.4.10;400;<html><body>Forbidden</body></html>;299;2605;/admin;CVE-2013-16780;safe
+Nginx;1.19.10;404;<html><body>Not Found</body></html>;121;1800;/admin;CVE-2017-14991;exploitable
+Caddy;2.4.6;403;<html><body>Forbidden</body></html>;210;4298;/admin;CVE-2004-56163;safe
+Tomcat;9.0.52;301;<html><body>Server Error</body></html>;189;1183;/admin;CVE-1999-89397;safe
+Microsoft IIS;7.5;401;<html><body>Success</body></html>;191;2428;/admin;CVE-2002-35717;exploitable
+OpenResty;1.19.9.1;200;<html><body>Not Found</body></html>;252;1093;/admin/backend;CVE-2013-82171;safe
+Nginx;1.19.10;503;<html><body>Unauthorized</body></html>;210;2858;/admin;CVE-2004-93057;exploitable
+OpenResty;1.19.9.1;301;<html><body>Success</body></html>;296;1121;/admin/signin/login;CVE-2004-60454;exploitable
+Apache;2.4.52;404;<html><body>Unauthorized</body></html>;140;4594;/admin/signin/login/index;CVE-2007-70040;exploitable
+H2O;2.2.6;200;<html><body>Not Found</body></html>;139;891;/admin;CVE-2008-98598;safe
+Caddy;2.4.5;503;<html><body>Unauthorized</body></html>;147;2018;/admin;CVE-2024-85447;safe
+Lighttpd;1.4.45;404;<html><body>Forbidden</body></html>;105;4533;/admin;CVE-2006-68652;safe
+Caddy;2.4.6;200;<html><body>Unauthorized</body></html>;196;2704;/admincp/login;CVE-2002-35556;safe
+Nginx;1.19.10;301;<html><body>Server Error</body></html>;195;4792;/admin;CVE-2001-99837;exploitable
+Nginx;1.20.2;403;<html><body>Unauthorized</body></html>;202;3372;/admin;CVE-2004-36007;exploitable
+H2O;2.2.4;401;<html><body>Forbidden</body></html>;272;2372;/user/login.ashx;CVE-2022-57874;safe
+Lighttpd;1.4.63;403;<html><body>Server Error</body></html>;100;1104;/admin;CVE-2003-36093;safe
+H2O;2.2.4;403;<html><body>Server Error</body></html>;250;1161;/admin;CVE-2024-34628;safe
+Tomcat;9.0.52;404;<html><body>Server Error</body></html>;147;2375;/backend;CVE-2020-54476;safe
+Nginx;1.20.2;400;<html><body>Unauthorized</body></html>;143;3457;/wp-login.php;CVE-2015-22524;exploitable
+Microsoft IIS;7.5;404;<html><body>Server Error</body></html>;154;3673;/admincp/login.php;CVE-1999-89056;exploitable
+H2O;2.2.5;503;<html><body>Not Found</body></html>;266;4449;/admin;CVE-2013-54087;safe
+Tomcat;7.0.109;200;<html><body>Forbidden</body></html>;101;2054;/admin;CVE-2011-7045;safe
+Tomcat;8.5.70;200;<html><body>Server Error</body></html>;283;1363;/admin;CVE-2009-98787;safe
+LiteSpeed;6.0.12;503;<html><body>Not Found</body></html>;263;1921;/admin/login.php;CVE-2019-27994;safe
+Caddy;2.4.4;401;<html><body>Success</body></html>;103;3784;/admin/index;CVE-2018-23462;safe
+Caddy;2.4.4;404;<html><body>Server Error</body></html>;105;3138;/admin;CVE-2019-82569;safe
+OpenResty;1.19.3.1;502;<html><body>Server Error</body></html>;103;3700;/admin;CVE-2003-81063;exploitable
+OpenResty;1.15.8.2;503;<html><body>Server Error</body></html>;227;1171;/admin;CVE-2014-79617;exploitable
+OpenResty;1.15.8.2;500;<html><body>Forbidden</body></html>;136;3722;/admincp/index.php;CVE-2013-89948;safe
+Microsoft IIS;10.0;401;<html><body>Forbidden</body></html>;134;2784;/admin;CVE-2018-12170;exploitable
+Node.js;10.24.1;200;<html><body>Unauthorized</body></html>;185;2073;/admincp/login;CVE-2016-99569;exploitable
+OpenResty;1.15.8.2;403;<html><body>Server Error</body></html>;264;1303;/admin/dashboard;CVE-2015-47547;exploitable
+Caddy;2.4.6;301;<html><body>Not Found</body></html>;267;3533;/admin;CVE-2007-69873;safe
+Lighttpd;1.4.63;500;<html><body>Unauthorized</body></html>;243;515;/admin;CVE-2000-33582;safe
+Caddy;2.4.6;503;<html><body>Success</body></html>;289;4895;/admin;CVE-2013-95268;safe
+LiteSpeed;5.3.7;200;<html><body>Unauthorized</body></html>;224;4586;/admincp;CVE-2003-21720;safe
+LiteSpeed;5.3.7;500;<html><body>Unauthorized</body></html>;131;1714;/admin;CVE-2012-34746;safe
+Lighttpd;1.4.63;301;<html><body>Server Error</body></html>;135;4795;/admin;CVE-2010-89986;safe
+Microsoft IIS;8.5;403;<html><body>Not Found</body></html>;111;2258;/admin;CVE-2015-91330;exploitable
+Caddy;2.4.6;403;<html><body>Not Found</body></html>;217;2237;/admin;CVE-2007-84214;safe
+Caddy;2.4.5;200;<html><body>Server Error</body></html>;128;2062;/admincp/login;CVE-2008-8578;safe
+Lighttpd;1.4.55;403;<html><body>Success</body></html>;266;611;/admin;CVE-2003-92483;safe
+Lighttpd;1.4.63;200;<html><body>Not Found</body></html>;275;2731;/admin;CVE-2017-34699;safe
+Apache;2.4.53;400;<html><body>Server Error</body></html>;109;1594;/admin/signin;CVE-2021-42811;exploitable
+Nginx;1.20.2;502;<html><body>Server Error</body></html>;288;974;/user/login.aspx;CVE-1999-45822;exploitable
+LiteSpeed;6.0.12;404;<html><body>Forbidden</body></html>;113;2369;/admin;CVE-2022-90168;safe
+H2O;2.2.5;401;<html><body>Server Error</body></html>;113;3102;/admin;CVE-2014-1558;safe
+Caddy;2.4.6;403;<html><body>Forbidden</body></html>;241;4756;/admin;CVE-2015-55219;safe
+LiteSpeed;6.0.12;503;<html><body>Server Error</body></html>;175;4717;/admin;CVE-2008-54016;safe
+Microsoft IIS;8.5;400;<html><body>Server Error</body></html>;203;1044;/admin/signin/index;CVE-2021-16642;exploitable
+Microsoft IIS;10.0;200;<html><body>Unauthorized</body></html>;276;4795;/admin/dashboard;CVE-2002-65529;exploitable
+Tomcat;9.0.52;404;<html><body>Forbidden</body></html>;166;1277;/admin/login.php;CVE-2021-90726;safe
+Lighttpd;1.4.45;500;<html><body>Success</body></html>;274;2447;/admin;CVE-2002-82874;safe
+Lighttpd;1.4.63;403;<html><body>Forbidden</body></html>;183;3947;/admincp;CVE-2024-16007;safe
+Apache;2.4.53;502;<html><body>Forbidden</body></html>;147;2208;/admin;CVE-2022-95690;exploitable
+Microsoft IIS;8.5;500;<html><body>Server Error</body></html>;276;966;/user/login.jsp;CVE-2019-66190;exploitable
+H2O;2.2.6;502;<html><body>Unauthorized</body></html>;189;2385;/shop/login;CVE-2022-59402;safe
+OpenResty;1.15.8.2;404;<html><body>Server Error</body></html>;164;3951;/admin/backend;CVE-2014-44573;exploitable
+Node.js;12.18.3;503;<html><body>Unauthorized</body></html>;217;1547;/administrator/login.php;CVE-2009-71409;exploitable
+LiteSpeed;5.4.10;503;<html><body>Unauthorized</body></html>;253;4961;/admin;CVE-2013-61284;safe
+Nginx;1.18.0;502;<html><body>Not Found</body></html>;267;1630;/admin;CVE-2004-8156;exploitable
+Apache;2.4.52;301;<html><body>Success</body></html>;146;2223;/admin/index.php;CVE-2018-49197;exploitable
+Nginx;1.18.0;400;<html><body>Success</body></html>;238;1898;/admin/login;CVE-2022-86199;exploitable
+Lighttpd;1.4.45;401;<html><body>Server Error</body></html>;193;2127;/admin;CVE-2011-97281;safe
+Tomcat;7.0.109;403;<html><body>Not Found</body></html>;284;2140;/admin;CVE-2019-31394;safe
+OpenResty;1.19.3.1;401;<html><body>Not Found</body></html>;206;3500;/admin;CVE-2006-77476;exploitable
+H2O;2.2.6;500;<html><body>Server Error</body></html>;142;3939;/user;CVE-2003-18181;safe
+Caddy;2.4.4;500;<html><body>Server Error</body></html>;290;4440;/admin;CVE-2009-60797;safe
+Nginx;1.19.10;404;<html><body>Server Error</body></html>;226;4777;/admin/login/index;CVE-2004-34787;exploitable
+Caddy;2.4.4;404;<html><body>Server Error</body></html>;275;4305;/admin;CVE-2001-34878;safe
+LiteSpeed;5.4.10;200;<html><body>Forbidden</body></html>;239;3964;/admin;CVE-2012-18350;safe
+Lighttpd;1.4.45;500;<html><body>Success</body></html>;253;1754;/admin;CVE-2010-45524;safe
+Microsoft IIS;10.0;301;<html><body>Success</body></html>;242;3214;/admin/login;CVE-2001-84431;exploitable
+Caddy;2.4.5;200;<html><body>Forbidden</body></html>;106;2521;/administrator/index.php;CVE-2006-39204;safe
+Tomcat;9.0.52;200;<html><body>Unauthorized</body></html>;214;3569;/admincp/login.php;CVE-1999-12248;safe
+Tomcat;9.0.52;404;<html><body>Not Found</body></html>;125;765;/wp/wp-login.php;CVE-2010-68854;safe
+OpenResty;1.19.9.1;500;<html><body>Success</body></html>;154;704;/admin/index;CVE-2019-57842;exploitable
+Node.js;14.17.0;403;<html><body>Not Found</body></html>;289;4743;/admin;CVE-2000-25275;exploitable
+Caddy;2.4.4;400;<html><body>Unauthorized</body></html>;291;4520;/admincp/login;CVE-2003-77574;safe
+Microsoft IIS;7.5;502;<html><body>Forbidden</body></html>;137;1453;/wp-login.php;CVE-2002-8499;exploitable
+OpenResty;1.19.9.1;503;<html><body>Success</body></html>;233;2859;/admin;CVE-2015-93218;exploitable
+Nginx;1.18.0;404;<html><body>Forbidden</body></html>;237;4828;/admin;CVE-2011-58920;exploitable
+Tomcat;7.0.109;401;<html><body>Not Found</body></html>;148;3124;/backend;CVE-2014-77218;safe
+OpenResty;1.19.3.1;503;<html><body>Forbidden</body></html>;143;4286;/wp-admin;CVE-2002-96403;exploitable
+Microsoft IIS;7.5;401;<html><body>Success</body></html>;139;1211;/admin/dashboard;CVE-2017-11041;exploitable
+Caddy;2.4.6;503;<html><body>Unauthorized</body></html>;151;1907;/user/login.xhtml;CVE-2020-38924;safe
+Tomcat;7.0.109;301;<html><body>Success</body></html>;274;4845;/wp-login.php;CVE-2009-60555;safe
+H2O;2.2.6;404;<html><body>Server Error</body></html>;201;1930;/admin;CVE-2023-94176;safe
+H2O;2.2.5;401;<html><body>Not Found</body></html>;226;4347;/admin;CVE-2014-70354;safe
+Node.js;14.17.0;200;<html><body>Forbidden</body></html>;248;2844;/admin;CVE-2004-24512;exploitable
+Caddy;2.4.4;200;<html><body>Forbidden</body></html>;267;3800;/admin;CVE-2006-64296;safe
+Node.js;12.18.3;403;<html><body>Unauthorized</body></html>;286;4843;/admin;CVE-2015-10968;safe
+Nginx;1.19.10;500;<html><body>Unauthorized</body></html>;221;2717;/admin;CVE-2007-55940;exploitable
+Apache;2.4.52;200;<html><body>Unauthorized</body></html>;267;1870;/admin;CVE-2005-45787;exploitable
+Microsoft IIS;8.5;200;<html><body>Unauthorized</body></html>;140;3824;/admin;CVE-2012-42965;exploitable
+LiteSpeed;5.4.10;401;<html><body>Not Found</body></html>;249;3683;/admin;CVE-2024-60362;safe
+LiteSpeed;6.0.12;200;<html><body>Forbidden</body></html>;113;2967;/admin;CVE-2022-22012;safe
+H2O;2.2.6;503;<html><body>Success</body></html>;150;4973;/admin;CVE-2020-48615;safe
+Lighttpd;1.4.45;200;<html><body>Not Found</body></html>;132;3979;/admin;CVE-2020-22051;safe
+Tomcat;9.0.52;500;<html><body>Server Error</body></html>;108;2031;/admin/login;CVE-2008-53336;safe
+H2O;2.2.6;401;<html><body>Unauthorized</body></html>;204;2459;/admin;CVE-2021-21064;safe
+OpenResty;1.19.3.1;301;<html><body>Server Error</body></html>;205;1730;/admin;CVE-2000-56443;exploitable
+H2O;2.2.6;502;<html><body>Unauthorized</body></html>;104;3591;/admincp;CVE-2010-40081;safe
+Nginx;1.18.0;403;<html><body>Server Error</body></html>;220;1026;/shop/login;CVE-2007-97621;exploitable
+Microsoft IIS;7.5;200;<html><body>Forbidden</body></html>;215;2935;/admincp/index.php;CVE-2007-88632;exploitable
+Microsoft IIS;10.0;200;<html><body>Forbidden</body></html>;289;4670;/admin;CVE-2013-13998;exploitable
+Tomcat;9.0.52;403;<html><body>Not Found</body></html>;195;2228;/user;CVE-2002-76129;safe
+Tomcat;7.0.109;401;<html><body>Success</body></html>;241;1760;/admin;CVE-2003-78686;safe
+OpenResty;1.19.3.1;400;<html><body>Unauthorized</body></html>;296;4285;/user/login;CVE-2015-73253;exploitable
+OpenResty;1.19.9.1;503;<html><body>Forbidden</body></html>;108;2391;/shop/login;CVE-2007-56636;safe
+Apache;2.4.54;503;<html><body>Unauthorized</body></html>;113;2740;/admin;CVE-2005-55640;exploitable
+Caddy;2.4.6;403;<html><body>Success</body></html>;281;3182;/user/login;CVE-2021-62635;safe
+Tomcat;9.0.52;502;<html><body>Forbidden</body></html>;149;3413;/admin;CVE-2020-85333;safe
+OpenResty;1.19.9.1;403;<html><body>Server Error</body></html>;198;2144;/backend;CVE-2023-3682;exploitable
+Microsoft IIS;7.5;403;<html><body>Not Found</body></html>;247;2817;/backend;CVE-2009-42411;exploitable
+Lighttpd;1.4.63;400;<html><body>Success</body></html>;284;1125;/wp-admin.php;CVE-2003-16479;safe
+Microsoft IIS;7.5;503;<html><body>Not Found</body></html>;192;3940;/administrator/index.php;CVE-2017-51368;exploitable
+Apache;2.4.54;401;<html><body>Success</body></html>;143;4937;/admin;CVE-2000-99528;exploitable
+H2O;2.2.5;200;<html><body>Success</body></html>;196;883;/user;CVE-2003-89971;safe
+Lighttpd;1.4.45;500;<html><body>Success</body></html>;264;677;/admincp/login;CVE-2001-10845;safe
+Apache;2.4.53;500;<html><body>Unauthorized</body></html>;160;2903;/admin;CVE-2007-78407;exploitable
+Tomcat;9.0.52;503;<html><body>Unauthorized</body></html>;257;1034;/wp-admin;CVE-2012-60667;safe
+Tomcat;8.5.70;400;<html><body>Server Error</body></html>;201;3227;/admin;CVE-2012-47199;safe
+Tomcat;7.0.109;301;<html><body>Success</body></html>;237;3565;/woocommerce/login;CVE-2022-61376;safe
+Tomcat;8.5.70;400;<html><body>Success</body></html>;250;1194;/admin/signin;CVE-2003-28801;safe
+Apache;2.4.52;401;<html><body>Not Found</body></html>;111;2460;/admin;CVE-2004-72552;exploitable
+OpenResty;1.19.3.1;401;<html><body>Success</body></html>;180;3278;/admin/index;CVE-2023-76068;safe
+Lighttpd;1.4.63;400;<html><body>Forbidden</body></html>;190;3032;/admin;CVE-2002-2160;safe
+Nginx;1.19.10;401;<html><body>Success</body></html>;262;2597;/admin/signin;CVE-2005-3652;exploitable
+Tomcat;7.0.109;500;<html><body>Forbidden</body></html>;285;3602;/admin/signin/index/index;CVE-2021-73768;safe
+Apache;2.4.54;301;<html><body>Unauthorized</body></html>;233;4253;/admin/signin/index/index;CVE-2019-84994;exploitable
+Apache;2.4.52;500;<html><body>Success</body></html>;257;2282;/admin;CVE-2022-70277;exploitable
+LiteSpeed;5.4.10;403;<html><body>Server Error</body></html>;168;2095;/admin;CVE-2020-80935;safe
+Nginx;1.19.10;404;<html><body>Unauthorized</body></html>;102;4192;/admin;CVE-1999-18821;exploitable
+H2O;2.2.4;400;<html><body>Server Error</body></html>;159;2042;/admin;CVE-2003-41842;safe
+Lighttpd;1.4.45;503;<html><body>Not Found</body></html>;179;2040;/admin;CVE-2022-63965;safe
+H2O;2.2.4;401;<html><body>Success</body></html>;163;1553;/admin;CVE-2004-61461;safe
+LiteSpeed;5.3.7;502;<html><body>Unauthorized</body></html>;133;1427;/admincp/login.html;CVE-2024-95769;safe
+Tomcat;9.0.52;301;<html><body>Forbidden</body></html>;183;616;/administrator;CVE-2009-75622;safe
+Node.js;10.24.1;403;<html><body>Success</body></html>;218;3915;/admincp/login.html;CVE-2003-69725;exploitable
+Tomcat;7.0.109;400;<html><body>Unauthorized</body></html>;149;3327;/wp-admin.php;CVE-2006-47557;safe
+Apache;2.4.52;503;<html><body>Success</body></html>;292;1007;/admin;CVE-2001-35950;exploitable
+H2O;2.2.4;500;<html><body>Forbidden</body></html>;176;1442;/admin;CVE-2016-41852;safe
+Nginx;1.20.2;503;<html><body>Not Found</body></html>;172;1933;/admin;CVE-2013-36511;exploitable
+Tomcat;8.5.70;400;<html><body>Server Error</body></html>;234;4761;/admin;CVE-2010-30320;safe
+Nginx;1.20.2;401;<html><body>Unauthorized</body></html>;183;1833;/wp-admin;CVE-2005-58979;exploitable
+Nginx;1.18.0;502;<html><body>Forbidden</body></html>;174;2360;/admin;CVE-2021-8124;exploitable
+Microsoft IIS;7.5;404;<html><body>Not Found</body></html>;103;2063;/admin;CVE-2017-68499;exploitable
+LiteSpeed;6.0.12;502;<html><body>Forbidden</body></html>;190;4496;/user/login.html;CVE-2003-41110;safe
+Tomcat;9.0.52;502;<html><body>Server Error</body></html>;264;4048;/admin;CVE-2013-67652;safe
+H2O;2.2.4;400;<html><body>Success</body></html>;229;4629;/admin/backend;CVE-2002-11008;safe
+OpenResty;1.15.8.2;401;<html><body>Unauthorized</body></html>;276;4581;/admincp/index.php;CVE-2022-89674;exploitable
+Microsoft IIS;8.5;400;<html><body>Success</body></html>;154;4077;/admin;CVE-2010-14514;exploitable
+Nginx;1.19.10;400;<html><body>Success</body></html>;237;1014;/user/login.asp;CVE-2005-3959;exploitable
+OpenResty;1.15.8.2;503;<html><body>Not Found</body></html>;156;986;/shop/login;CVE-2020-27301;exploitable
+Apache;2.4.53;500;<html><body>Not Found</body></html>;261;2794;/admin;CVE-2010-2318;exploitable
+LiteSpeed;5.3.7;404;<html><body>Forbidden</body></html>;146;4201;/wp-login.php;CVE-2003-91354;safe
+H2O;2.2.6;400;<html><body>Not Found</body></html>;142;632;/user;CVE-2024-46009;safe
+OpenResty;1.15.8.2;401;<html><body>Success</body></html>;198;2773;/admin;CVE-2020-55773;exploitable
+Caddy;2.4.6;404;<html><body>Not Found</body></html>;229;4160;/admin;CVE-2008-40865;safe
+Node.js;14.17.0;500;<html><body>Forbidden</body></html>;223;4906;/admin/signin/index;CVE-2023-80298;safe
+Nginx;1.19.10;404;<html><body>Unauthorized</body></html>;293;4669;/admin;CVE-2002-46533;exploitable
+Lighttpd;1.4.45;301;<html><body>Success</body></html>;293;2126;/admin/dashboard;CVE-2008-12713;safe
+LiteSpeed;6.0.12;400;<html><body>Success</body></html>;122;3507;/admin/dashboard;CVE-2005-88333;safe
+Tomcat;8.5.70;301;<html><body>Server Error</body></html>;169;2961;/user/login.ashx;CVE-2017-47105;safe
+Caddy;2.4.4;500;<html><body>Server Error</body></html>;147;2561;/admin;CVE-2009-91187;safe
+LiteSpeed;6.0.12;301;<html><body>Not Found</body></html>;150;1874;/admin;CVE-1999-96388;safe
+Microsoft IIS;7.5;401;<html><body>Not Found</body></html>;265;4579;/admincp;CVE-1999-16435;exploitable
+Caddy;2.4.5;401;<html><body>Success</body></html>;193;3966;/wp-admin;CVE-2011-96534;safe
+Microsoft IIS;7.5;301;<html><body>Server Error</body></html>;137;2632;/admincp/login;CVE-2021-67485;exploitable
+Node.js;12.18.3;403;<html><body>Success</body></html>;153;4470;/user/login.cgi;CVE-1999-50518;exploitable
+Nginx;1.18.0;400;<html><body>Forbidden</body></html>;125;719;/admin;CVE-2018-99060;exploitable
+LiteSpeed;5.3.7;200;<html><body>Server Error</body></html>;225;710;/admin;CVE-2012-65612;safe
+H2O;2.2.5;500;<html><body>Unauthorized</body></html>;129;3700;/user/login.jsf;CVE-2003-37988;safe
+Node.js;12.18.3;401;<html><body>Success</body></html>;299;3520;/admincp/login.html;CVE-2002-14433;exploitable
+Tomcat;7.0.109;502;<html><body>Not Found</body></html>;135;4871;/admin;CVE-2007-4888;safe
+Tomcat;7.0.109;502;<html><body>Server Error</body></html>;258;704;/admin;CVE-2015-57450;safe
+Caddy;2.4.4;500;<html><body>Forbidden</body></html>;268;1940;/admin;CVE-2003-55800;safe
+Microsoft IIS;7.5;404;<html><body>Success</body></html>;182;4141;/admin;CVE-1999-72773;exploitable
+H2O;2.2.4;403;<html><body>Not Found</body></html>;263;3711;/admin;CVE-2001-28212;safe
+Apache;2.4.54;500;<html><body>Forbidden</body></html>;115;2344;/admin;CVE-2000-77023;exploitable
+OpenResty;1.19.3.1;503;<html><body>Not Found</body></html>;219;4045;/admin;CVE-2022-49027;safe
+OpenResty;1.19.3.1;503;<html><body>Server Error</body></html>;108;2351;/admin;CVE-2023-39225;safe
+OpenResty;1.19.3.1;400;<html><body>Server Error</body></html>;195;2380;/admin;CVE-2010-46430;safe
+Tomcat;9.0.52;500;<html><body>Unauthorized</body></html>;221;4988;/admin;CVE-2000-36758;safe
+Apache;2.4.52;403;<html><body>Success</body></html>;209;4950;/admin;CVE-2010-95640;exploitable
+Lighttpd;1.4.45;403;<html><body>Forbidden</body></html>;197;2919;/admin;CVE-2017-58273;safe
+LiteSpeed;5.4.10;502;<html><body>Not Found</body></html>;176;3324;/user;CVE-2022-23332;safe
+H2O;2.2.6;301;<html><body>Success</body></html>;160;4066;/user/login;CVE-2024-1304;safe
+Microsoft IIS;8.5;502;<html><body>Forbidden</body></html>;183;1204;/admin;CVE-2020-51580;exploitable
+Caddy;2.4.4;502;<html><body>Server Error</body></html>;225;2957;/user/login.pl;CVE-2004-50871;safe
+Tomcat;7.0.109;400;<html><body>Success</body></html>;237;2629;/shop/login;CVE-2016-21058;safe
+Lighttpd;1.4.45;301;<html><body>Unauthorized</body></html>;159;1468;/admin;CVE-2004-43462;safe
+Apache;2.4.52;503;<html><body>Unauthorized</body></html>;167;705;/admincp/login.html;CVE-2020-42958;exploitable
+Node.js;12.18.3;500;<html><body>Server Error</body></html>;176;4571;/admin;CVE-2003-64354;exploitable
+Node.js;10.24.1;400;<html><body>Not Found</body></html>;279;1221;/wp/wp-login.php;CVE-2008-89166;exploitable
+Node.js;14.17.0;301;<html><body>Forbidden</body></html>;258;914;/admincp;CVE-2009-23091;safe
+Microsoft IIS;8.5;503;<html><body>Success</body></html>;141;2984;/admin;CVE-2024-99159;exploitable
+Microsoft IIS;8.5;200;<html><body>Server Error</body></html>;293;3999;/admin;CVE-2003-81062;exploitable
+H2O;2.2.5;503;<html><body>Unauthorized</body></html>;245;3984;/login;CVE-1999-19062;safe
+H2O;2.2.5;500;<html><body>Server Error</body></html>;181;3183;/login;CVE-2013-15268;safe
+Nginx;1.19.10;301;<html><body>Success</body></html>;101;2815;/admincp/index.php;CVE-2005-30293;exploitable
+Tomcat;8.5.70;301;<html><body>Forbidden</body></html>;213;1332;/admin;CVE-2003-82345;safe
+H2O;2.2.4;503;<html><body>Server Error</body></html>;181;3740;/admin;CVE-2005-96993;safe
+Tomcat;8.5.70;401;<html><body>Forbidden</body></html>;290;3228;/admin;CVE-2000-21662;safe
+OpenResty;1.15.8.2;200;<html><body>Success</body></html>;245;3684;/admin;CVE-2024-10530;safe
+Nginx;1.20.2;502;<html><body>Forbidden</body></html>;121;2442;/admin;CVE-2019-75753;exploitable
+Lighttpd;1.4.45;404;<html><body>Server Error</body></html>;155;1971;/admin/signin/login/index;CVE-2009-26164;safe
+Lighttpd;1.4.55;401;<html><body>Success</body></html>;185;3844;/admin;CVE-2001-87311;safe
+Tomcat;7.0.109;503;<html><body>Success</body></html>;278;3818;/admin;CVE-2023-10093;safe
+Node.js;10.24.1;401;<html><body>Forbidden</body></html>;215;692;/admin;CVE-1999-54722;exploitable
+Caddy;2.4.6;503;<html><body>Server Error</body></html>;147;4896;/admin;CVE-2007-10228;safe
+Tomcat;9.0.52;400;<html><body>Not Found</body></html>;113;4359;/user/login.pl;CVE-2014-37617;safe
+Node.js;14.17.0;301;<html><body>Unauthorized</body></html>;248;1651;/admin;CVE-2016-26601;safe
+Caddy;2.4.6;500;<html><body>Success</body></html>;258;3398;/admincp/index.php;CVE-2012-76552;safe
+LiteSpeed;6.0.12;400;<html><body>Not Found</body></html>;239;1972;/admin;CVE-2002-44603;safe
+LiteSpeed;6.0.12;400;<html><body>Success</body></html>;286;906;/admin;CVE-2018-68036;safe
+Caddy;2.4.4;502;<html><body>Not Found</body></html>;282;4881;/admin;CVE-2010-66102;safe
+Node.js;14.17.0;503;<html><body>Unauthorized</body></html>;197;4207;/admin;CVE-2010-3936;exploitable
+Tomcat;7.0.109;200;<html><body>Unauthorized</body></html>;132;3493;/wp-admin.php;CVE-2002-84039;safe
+Caddy;2.4.4;403;<html><body>Forbidden</body></html>;145;3211;/admin;CVE-2009-40001;safe
+LiteSpeed;5.3.7;502;<html><body>Forbidden</body></html>;215;2774;/user/login.html;CVE-2000-64703;safe
+Tomcat;7.0.109;301;<html><body>Not Found</body></html>;188;3650;/admin;CVE-1999-94249;safe
+Microsoft IIS;8.5;200;<html><body>Server Error</body></html>;251;3775;/admin;CVE-2002-84695;exploitable
+Caddy;2.4.4;403;<html><body>Forbidden</body></html>;103;4150;/login;CVE-2008-84817;safe
+Caddy;2.4.4;400;<html><body>Not Found</body></html>;290;4625;/admin;CVE-2001-37143;safe
+Caddy;2.4.4;503;<html><body>Forbidden</body></html>;183;4253;/admin;CVE-2004-90101;safe
+Lighttpd;1.4.45;401;<html><body>Forbidden</body></html>;271;764;/admin;CVE-2009-94432;safe
+H2O;2.2.5;404;<html><body>Unauthorized</body></html>;112;1140;/admin;CVE-2001-10516;safe
+LiteSpeed;6.0.12;500;<html><body>Unauthorized</body></html>;116;4474;/admin;CVE-2005-64325;safe
+OpenResty;1.19.3.1;401;<html><body>Unauthorized</body></html>;177;2280;/admin;CVE-2002-35322;exploitable
+LiteSpeed;5.4.10;503;<html><body>Unauthorized</body></html>;148;2145;/administrator/login.php;CVE-2004-94170;safe
+Nginx;1.18.0;200;<html><body>Server Error</body></html>;156;2927;/admin;CVE-2022-72738;exploitable
+Nginx;1.20.2;503;<html><body>Forbidden</body></html>;288;4531;/admin;CVE-2018-31957;exploitable
+Microsoft IIS;10.0;404;<html><body>Unauthorized</body></html>;182;1064;/admincp;CVE-2013-86457;exploitable
+Tomcat;9.0.52;301;<html><body>Success</body></html>;277;4128;/admin;CVE-2014-32876;safe
+Apache;2.4.53;401;<html><body>Not Found</body></html>;232;3783;/admin;CVE-2009-84395;exploitable
+Microsoft IIS;8.5;401;<html><body>Success</body></html>;162;1846;/admin;CVE-2021-20496;exploitable
+H2O;2.2.6;404;<html><body>Not Found</body></html>;296;3557;/admincp/login.php;CVE-2011-46174;safe
+H2O;2.2.5;503;<html><body>Forbidden</body></html>;231;2895;/admin;CVE-2003-68607;safe
+LiteSpeed;5.4.10;403;<html><body>Unauthorized</body></html>;236;2639;/admin;CVE-2010-76507;safe
+Nginx;1.19.10;404;<html><body>Unauthorized</body></html>;276;1104;/admin;CVE-2006-7793;exploitable
+H2O;2.2.6;403;<html><body>Unauthorized</body></html>;126;2911;/admin;CVE-2005-49765;safe
+Lighttpd;1.4.63;400;<html><body>Unauthorized</body></html>;150;4768;/admin;CVE-2024-22001;safe
+Node.js;12.18.3;400;<html><body>Forbidden</body></html>;164;4073;/admin;CVE-2021-20385;exploitable
+Apache;2.4.53;401;<html><body>Success</body></html>;187;2039;/backend;CVE-2014-60389;exploitable
+H2O;2.2.5;200;<html><body>Forbidden</body></html>;170;4058;/admin;CVE-2018-94007;safe
+Microsoft IIS;10.0;403;<html><body>Server Error</body></html>;190;4741;/admin;CVE-2008-4183;exploitable
+Caddy;2.4.4;502;<html><body>Success</body></html>;300;4423;/wp-admin;CVE-2020-24719;safe
+H2O;2.2.5;502;<html><body>Unauthorized</body></html>;287;3848;/admin;CVE-2013-41788;safe
+Lighttpd;1.4.63;301;<html><body>Success</body></html>;289;2419;/admincp/login.php;CVE-2014-39620;safe
+Tomcat;9.0.52;404;<html><body>Forbidden</body></html>;260;4491;/admin;CVE-2016-14349;safe
+Apache;2.4.53;200;<html><body>Success</body></html>;250;4674;/wp-admin;CVE-2014-35791;exploitable
+Apache;2.4.54;401;<html><body>Forbidden</body></html>;170;1019;/admin;CVE-2007-49055;exploitable
+Tomcat;7.0.109;503;<html><body>Not Found</body></html>;252;3652;/admin/signin/index;CVE-2022-56356;safe
+Caddy;2.4.6;404;<html><body>Unauthorized</body></html>;252;3419;/admin;CVE-2008-83730;safe
+Nginx;1.18.0;400;<html><body>Unauthorized</body></html>;182;2069;/admin;CVE-2006-52166;exploitable
+OpenResty;1.19.3.1;403;<html><body>Success</body></html>;158;4501;/admin/signin/index;CVE-2019-19848;exploitable
+Lighttpd;1.4.45;200;<html><body>Server Error</body></html>;167;631;/admin;CVE-2016-17166;safe
+Apache;2.4.54;401;<html><body>Success</body></html>;110;3441;/administrator/index.php;CVE-2011-45343;exploitable
+Lighttpd;1.4.55;401;<html><body>Not Found</body></html>;148;2670;/admincp/index.php;CVE-2006-19570;safe
+OpenResty;1.19.9.1;401;<html><body>Forbidden</body></html>;278;1650;/admin/index.php;CVE-2019-69170;exploitable
+Lighttpd;1.4.63;500;<html><body>Forbidden</body></html>;141;4159;/admin;CVE-2006-88333;safe
+Microsoft IIS;8.5;200;<html><body>Not Found</body></html>;110;2369;/admin;CVE-2012-81324;exploitable
+Microsoft IIS;7.5;502;<html><body>Success</body></html>;147;3450;/admin;CVE-2009-38518;exploitable
+Apache;2.4.53;503;<html><body>Success</body></html>;210;638;/user/login.xhtml;CVE-2023-39483;exploitable
+H2O;2.2.4;502;<html><body>Success</body></html>;287;3247;/user;CVE-2013-73706;safe
+Caddy;2.4.4;400;<html><body>Success</body></html>;191;3513;/login;CVE-2024-52940;safe
+H2O;2.2.4;403;<html><body>Success</body></html>;223;3061;/admin;CVE-2020-19929;safe
+Nginx;1.19.10;301;<html><body>Success</body></html>;293;4990;/admincp/login.html;CVE-2012-55922;exploitable
+Tomcat;9.0.52;503;<html><body>Forbidden</body></html>;138;1197;/admin;CVE-1999-43585;safe
+Node.js;10.24.1;301;<html><body>Forbidden</body></html>;128;2014;/user/login.jsp;CVE-2024-71933;safe
+Nginx;1.18.0;404;<html><body>Not Found</body></html>;278;1993;/admincp/login.php;CVE-2005-78929;exploitable
+Caddy;2.4.6;502;<html><body>Forbidden</body></html>;236;3229;/admin/login;CVE-2002-66376;safe
+Nginx;1.18.0;401;<html><body>Unauthorized</body></html>;294;1834;/woocommerce/login;CVE-2012-91764;exploitable
+Apache;2.4.52;404;<html><body>Forbidden</body></html>;187;4355;/admin;CVE-2009-42242;exploitable
+LiteSpeed;5.4.10;503;<html><body>Success</body></html>;222;3079;/admin/dashboard;CVE-2023-38863;safe
+Nginx;1.18.0;404;<html><body>Not Found</body></html>;229;4202;/admin;CVE-2001-3831;exploitable
+H2O;2.2.5;503;<html><body>Success</body></html>;164;3117;/user/login.php;CVE-2001-56367;safe
+Lighttpd;1.4.55;401;<html><body>Unauthorized</body></html>;274;4009;/admin;CVE-2007-55178;safe
+Tomcat;8.5.70;500;<html><body>Server Error</body></html>;192;3438;/admin;CVE-2015-46589;safe
+OpenResty;1.19.3.1;200;<html><body>Server Error</body></html>;133;2226;/admin;CVE-2016-30889;exploitable
+Tomcat;9.0.52;400;<html><body>Success</body></html>;140;2664;/admin;CVE-2017-52772;safe
+Node.js;14.17.0;403;<html><body>Not Found</body></html>;196;1276;/admin;CVE-2022-74918;exploitable
+Apache;2.4.52;400;<html><body>Server Error</body></html>;171;4170;/admin;CVE-2003-29768;exploitable
+Microsoft IIS;10.0;401;<html><body>Forbidden</body></html>;165;3709;/admin;CVE-2016-7969;exploitable
+LiteSpeed;5.4.10;502;<html><body>Forbidden</body></html>;225;4886;/admin;CVE-2004-68563;safe
+LiteSpeed;5.3.7;401;<html><body>Not Found</body></html>;258;1261;/user/login.asp;CVE-2020-3161;safe
+LiteSpeed;5.4.10;503;<html><body>Unauthorized</body></html>;162;3176;/admin;CVE-2020-21132;safe
+Nginx;1.19.10;502;<html><body>Not Found</body></html>;137;4713;/admin;CVE-2011-95557;exploitable
+OpenResty;1.19.3.1;500;<html><body>Server Error</body></html>;160;877;/admincp/login.html;CVE-2012-75658;safe
+Microsoft IIS;8.5;200;<html><body>Unauthorized</body></html>;245;680;/admin;CVE-1999-96846;exploitable
+Microsoft IIS;7.5;500;<html><body>Forbidden</body></html>;236;3512;/admin;CVE-2009-43543;exploitable
+Caddy;2.4.4;401;<html><body>Success</body></html>;149;806;/admin;CVE-2019-71145;safe
+H2O;2.2.5;401;<html><body>Server Error</body></html>;143;2842;/woocommerce/login;CVE-1999-42928;safe
+Nginx;1.20.2;403;<html><body>Forbidden</body></html>;108;1579;/admin;CVE-2013-26571;exploitable
+Microsoft IIS;7.5;503;<html><body>Unauthorized</body></html>;138;4222;/admin;CVE-2010-69487;exploitable
+Microsoft IIS;10.0;403;<html><body>Not Found</body></html>;146;2774;/admin;CVE-2018-70516;exploitable
+Lighttpd;1.4.55;301;<html><body>Not Found</body></html>;237;1365;/admin;CVE-2024-94476;safe
+Nginx;1.18.0;502;<html><body>Unauthorized</body></html>;145;4477;/admin;CVE-2010-13893;exploitable
+Tomcat;7.0.109;400;<html><body>Unauthorized</body></html>;216;1699;/admincp/login;CVE-2006-42236;safe
+LiteSpeed;6.0.12;404;<html><body>Unauthorized</body></html>;106;1653;/admin;CVE-2008-49685;safe
+Tomcat;8.5.70;502;<html><body>Forbidden</body></html>;275;2546;/admin;CVE-2016-33716;safe
+OpenResty;1.19.9.1;500;<html><body>Forbidden</body></html>;101;2503;/admincp/login.html;CVE-2016-54172;exploitable
+LiteSpeed;5.4.10;404;<html><body>Not Found</body></html>;128;1675;/admin;CVE-2013-81468;safe
+H2O;2.2.5;502;<html><body>Server Error</body></html>;212;2593;/admin;CVE-2012-37034;safe
+Lighttpd;1.4.55;404;<html><body>Not Found</body></html>;160;4602;/wp-login.php;CVE-2006-45510;safe
+Nginx;1.18.0;200;<html><body>Forbidden</body></html>;227;3700;/admin;CVE-2009-52564;exploitable
+H2O;2.2.5;503;<html><body>Forbidden</body></html>;205;2141;/administrator/login.php;CVE-2001-72176;safe
+Tomcat;7.0.109;200;<html><body>Forbidden</body></html>;169;4759;/admin;CVE-2001-96993;safe
+Tomcat;9.0.52;400;<html><body>Server Error</body></html>;125;1419;/admin;CVE-2006-67452;safe
+Tomcat;7.0.109;403;<html><body>Server Error</body></html>;213;4254;/admin;CVE-2010-1803;safe
+OpenResty;1.19.3.1;400;<html><body>Server Error</body></html>;102;1735;/wp-admin;CVE-2018-25960;exploitable
+Microsoft IIS;10.0;200;<html><body>Forbidden</body></html>;116;4587;/admin/login;CVE-2010-32522;exploitable
+Lighttpd;1.4.55;500;<html><body>Not Found</body></html>;132;1750;/admin;CVE-2018-86867;safe
+Node.js;12.18.3;503;<html><body>Success</body></html>;197;4359;/admin;CVE-1999-53934;exploitable
+Nginx;1.19.10;500;<html><body>Success</body></html>;224;2450;/admin;CVE-2024-11737;exploitable
+H2O;2.2.5;200;<html><body>Success</body></html>;269;4220;/admin;CVE-2006-80120;safe
+Caddy;2.4.6;401;<html><body>Not Found</body></html>;220;4971;/admin;CVE-2015-18636;safe
+Lighttpd;1.4.45;502;<html><body>Forbidden</body></html>;259;4786;/admin;CVE-2007-69217;safe
+H2O;2.2.5;200;<html><body>Not Found</body></html>;265;1902;/admin/signin/index;CVE-2002-70802;safe
+Node.js;12.18.3;404;<html><body>Forbidden</body></html>;106;2764;/admin;CVE-2002-91809;safe
+H2O;2.2.5;500;<html><body>Server Error</body></html>;248;1285;/admincp/login.php;CVE-2016-39100;safe
+Apache;2.4.54;301;<html><body>Server Error</body></html>;131;3416;/admin;CVE-1999-76532;exploitable
+Tomcat;8.5.70;200;<html><body>Forbidden</body></html>;171;3053;/admin;CVE-2005-36511;safe
+Node.js;10.24.1;200;<html><body>Unauthorized</body></html>;101;2358;/admin;CVE-2001-92385;exploitable
+Caddy;2.4.6;502;<html><body>Unauthorized</body></html>;245;1470;/admin;CVE-2006-13613;safe
+H2O;2.2.5;403;<html><body>Unauthorized</body></html>;274;2843;/admin;CVE-2015-4928;safe
+LiteSpeed;5.4.10;200;<html><body>Server Error</body></html>;299;3236;/admin;CVE-2008-25202;safe
+Node.js;10.24.1;400;<html><body>Server Error</body></html>;220;4745;/admin;CVE-2017-27745;safe
+Caddy;2.4.5;401;<html><body>Unauthorized</body></html>;233;1975;/admin;CVE-2017-63317;safe
+Apache;2.4.53;500;<html><body>Success</body></html>;188;1706;/admin;CVE-2023-66826;exploitable
+H2O;2.2.4;400;<html><body>Server Error</body></html>;114;723;/admin;CVE-2018-85814;safe
+Node.js;14.17.0;503;<html><body>Success</body></html>;214;2873;/user/login.php;CVE-2008-52037;exploitable
+Apache;2.4.52;403;<html><body>Unauthorized</body></html>;163;4690;/admin;CVE-2009-28782;exploitable
+Apache;2.4.54;503;<html><body>Not Found</body></html>;286;2931;/admin;CVE-2022-67149;exploitable
+Lighttpd;1.4.45;301;<html><body>Success</body></html>;178;3490;/wp-admin.php;CVE-2001-22373;safe
+Nginx;1.18.0;200;<html><body>Unauthorized</body></html>;167;4465;/admincp;CVE-2022-42928;exploitable
+Nginx;1.20.2;200;<html><body>Unauthorized</body></html>;198;1516;/administrator;CVE-1999-34161;exploitable
+H2O;2.2.4;401;<html><body>Server Error</body></html>;238;999;/user/login.xhtml;CVE-2006-59152;safe
+Apache;2.4.53;404;<html><body>Server Error</body></html>;276;2074;/woocommerce/login;CVE-2020-84814;exploitable
+Lighttpd;1.4.63;503;<html><body>Forbidden</body></html>;269;4793;/admin;CVE-2017-91276;safe
+Tomcat;9.0.52;404;<html><body>Forbidden</body></html>;107;3406;/admin;CVE-2009-75237;safe
+Lighttpd;1.4.63;500;<html><body>Unauthorized</body></html>;169;1301;/admin/dashboard;CVE-2015-26602;safe
+Microsoft IIS;7.5;503;<html><body>Unauthorized</body></html>;197;3897;/admincp/login.html;CVE-2021-30304;exploitable
+Tomcat;7.0.109;503;<html><body>Not Found</body></html>;167;2156;/admin;CVE-2018-45105;safe
+Microsoft IIS;8.5;503;<html><body>Success</body></html>;262;4665;/admin;CVE-2023-42155;exploitable
+LiteSpeed;5.3.7;500;<html><body>Not Found</body></html>;251;1581;/admin;CVE-1999-36087;safe
+LiteSpeed;5.3.7;503;<html><body>Not Found</body></html>;102;1412;/admin;CVE-2020-4300;safe
+Microsoft IIS;10.0;500;<html><body>Server Error</body></html>;131;643;/admincp/login;CVE-2001-68030;exploitable
+OpenResty;1.19.9.1;400;<html><body>Forbidden</body></html>;171;4910;/admin/signin/index/index;CVE-2011-6831;safe
+LiteSpeed;6.0.12;401;<html><body>Server Error</body></html>;288;620;/admin;CVE-2016-60663;safe
+Nginx;1.19.10;400;<html><body>Unauthorized</body></html>;215;1421;/admin/login.php;CVE-2007-20678;exploitable
+Caddy;2.4.4;404;<html><body>Not Found</body></html>;212;3412;/user/login.aspx;CVE-2003-97728;safe
+Node.js;12.18.3;500;<html><body>Success</body></html>;278;1753;/administrator/login.php;CVE-2015-38106;safe
+Caddy;2.4.5;403;<html><body>Server Error</body></html>;286;1999;/admin;CVE-2016-27503;safe
+Lighttpd;1.4.63;200;<html><body>Server Error</body></html>;146;4369;/shop/login;CVE-2001-37403;safe
+OpenResty;1.15.8.2;404;<html><body>Unauthorized</body></html>;282;2639;/admin;CVE-2004-45000;exploitable
+Nginx;1.18.0;200;<html><body>Forbidden</body></html>;214;4665;/admin;CVE-2021-62863;exploitable
+LiteSpeed;5.4.10;500;<html><body>Server Error</body></html>;123;1321;/admin;CVE-2012-36554;safe
+H2O;2.2.4;200;<html><body>Success</body></html>;128;1360;/admin;CVE-2016-84786;safe
+Apache;2.4.54;404;<html><body>Not Found</body></html>;177;4825;/admin;CVE-2001-4836;exploitable
+Node.js;10.24.1;301;<html><body>Success</body></html>;133;3152;/wp/wp-login.php;CVE-2014-49296;safe
+Caddy;2.4.5;400;<html><body>Success</body></html>;100;2464;/admin;CVE-2001-7662;safe
+Node.js;12.18.3;500;<html><body>Success</body></html>;252;861;/admin;CVE-2006-78993;exploitable
+H2O;2.2.5;503;<html><body>Forbidden</body></html>;188;3903;/admin;CVE-2012-31042;safe
+Microsoft IIS;7.5;502;<html><body>Success</body></html>;147;1536;/admin;CVE-2010-53812;exploitable
+Lighttpd;1.4.55;403;<html><body>Server Error</body></html>;175;3276;/admincp/index.php;CVE-1999-5782;safe
+Tomcat;7.0.109;301;<html><body>Server Error</body></html>;128;1685;/admincp/login.php;CVE-2004-55534;safe
+Caddy;2.4.6;401;<html><body>Success</body></html>;222;2855;/admin;CVE-2013-94472;safe
+Caddy;2.4.6;404;<html><body>Unauthorized</body></html>;121;1783;/admin;CVE-2014-14824;safe
+H2O;2.2.4;401;<html><body>Not Found</body></html>;129;4991;/wp/wp-login.php;CVE-2009-36582;safe
+Nginx;1.19.10;403;<html><body>Forbidden</body></html>;145;4848;/admin;CVE-2003-61021;exploitable
+Lighttpd;1.4.63;500;<html><body>Not Found</body></html>;134;3963;/admin/dashboard;CVE-2010-72224;safe
+OpenResty;1.19.3.1;404;<html><body>Unauthorized</body></html>;120;1163;/wp-login.php;CVE-2019-5696;safe
+LiteSpeed;6.0.12;401;<html><body>Server Error</body></html>;221;4728;/administrator/login.php;CVE-2000-8585;safe
+Caddy;2.4.5;301;<html><body>Unauthorized</body></html>;136;3808;/admin;CVE-2015-49911;safe
+Nginx;1.20.2;404;<html><body>Server Error</body></html>;195;1962;/admin;CVE-2008-43810;exploitable
+Microsoft IIS;10.0;200;<html><body>Unauthorized</body></html>;225;1464;/user;CVE-2022-77670;exploitable
+Microsoft IIS;8.5;500;<html><body>Unauthorized</body></html>;198;3081;/user/login.html;CVE-2019-81393;exploitable
+Lighttpd;1.4.55;502;<html><body>Success</body></html>;110;3106;/login;CVE-2024-60342;safe
+Tomcat;7.0.109;500;<html><body>Unauthorized</body></html>;298;3453;/woocommerce/login;CVE-2020-56984;safe
+H2O;2.2.5;502;<html><body>Server Error</body></html>;198;2836;/login;CVE-2002-51670;safe
+Nginx;1.20.2;503;<html><body>Success</body></html>;296;4493;/admin/index;CVE-2018-15670;exploitable
+Nginx;1.18.0;404;<html><body>Not Found</body></html>;264;1349;/admin;CVE-2013-48951;exploitable
+Node.js;10.24.1;502;<html><body>Not Found</body></html>;137;2550;/wp-login.php;CVE-2024-84592;exploitable
+Nginx;1.18.0;401;<html><body>Unauthorized</body></html>;184;891;/admin;CVE-2016-70216;exploitable
+Caddy;2.4.6;200;<html><body>Forbidden</body></html>;201;984;/user/login.jsf;CVE-2009-51452;safe
+Caddy;2.4.5;503;<html><body>Unauthorized</body></html>;150;2243;/admin;CVE-2020-98267;safe
+Lighttpd;1.4.45;400;<html><body>Server Error</body></html>;228;4687;/admin;CVE-2009-40761;safe
+Microsoft IIS;7.5;301;<html><body>Server Error</body></html>;143;670;/admin;CVE-2004-13062;exploitable
+Microsoft IIS;8.5;503;<html><body>Not Found</body></html>;151;4518;/user/login.pl;CVE-2021-57065;exploitable
+Node.js;14.17.0;400;<html><body>Success</body></html>;221;1684;/admin;CVE-2009-98523;safe
+Node.js;12.18.3;403;<html><body>Unauthorized</body></html>;126;1959;/administrator/index.php;CVE-2013-87706;safe
+Nginx;1.20.2;301;<html><body>Server Error</body></html>;176;4134;/admin;CVE-2021-39047;exploitable
+Caddy;2.4.4;301;<html><body>Server Error</body></html>;281;507;/admincp;CVE-2020-39738;safe
+Microsoft IIS;7.5;200;<html><body>Success</body></html>;157;2896;/admin;CVE-2009-37409;exploitable
+OpenResty;1.15.8.2;401;<html><body>Not Found</body></html>;118;3017;/admin;CVE-2020-23636;exploitable
+Tomcat;8.5.70;502;<html><body>Forbidden</body></html>;231;1732;/admin;CVE-2022-49965;safe
+Microsoft IIS;10.0;401;<html><body>Forbidden</body></html>;184;1448;/admin/login;CVE-2004-78828;exploitable
+Caddy;2.4.4;503;<html><body>Not Found</body></html>;281;3397;/administrator;CVE-2018-7821;safe
+OpenResty;1.15.8.2;404;<html><body>Server Error</body></html>;223;1186;/admin;CVE-2000-45476;safe
+Nginx;1.19.10;301;<html><body>Server Error</body></html>;294;2681;/admin/dashboard;CVE-2006-36117;exploitable
+Nginx;1.20.2;503;<html><body>Success</body></html>;195;3559;/admincp/login;CVE-2020-70581;exploitable
+Microsoft IIS;7.5;502;<html><body>Unauthorized</body></html>;159;4225;/admin;CVE-2015-41432;exploitable
+Tomcat;7.0.109;400;<html><body>Unauthorized</body></html>;268;555;/wp-admin.php;CVE-2009-8764;safe
+Caddy;2.4.6;502;<html><body>Server Error</body></html>;123;3904;/administrator;CVE-2015-99358;safe
+Nginx;1.19.10;401;<html><body>Success</body></html>;293;3776;/admin;CVE-2013-41562;exploitable
+Microsoft IIS;10.0;301;<html><body>Server Error</body></html>;196;1457;/admincp;CVE-2019-57495;exploitable
+Apache;2.4.54;403;<html><body>Server Error</body></html>;286;3114;/admin/signin/index;CVE-2021-97515;exploitable
+Tomcat;9.0.52;403;<html><body>Unauthorized</body></html>;179;4962;/admin;CVE-2022-30888;safe
+Nginx;1.20.2;400;<html><body>Success</body></html>;222;1351;/login;CVE-2008-42890;exploitable
+Caddy;2.4.4;503;<html><body>Forbidden</body></html>;124;3734;/admin;CVE-2022-70561;safe
+Node.js;12.18.3;401;<html><body>Success</body></html>;189;3244;/admin;CVE-2017-50742;safe
+Lighttpd;1.4.55;503;<html><body>Forbidden</body></html>;182;3911;/admin/login;CVE-2015-79508;safe
+OpenResty;1.19.9.1;400;<html><body>Not Found</body></html>;207;1531;/user/login.aspx;CVE-1999-10998;safe
+H2O;2.2.6;502;<html><body>Success</body></html>;123;1022;/admin;CVE-2011-76082;safe
+Lighttpd;1.4.55;503;<html><body>Success</body></html>;175;1054;/admin;CVE-2001-17411;safe
+LiteSpeed;5.3.7;500;<html><body>Server Error</body></html>;291;2625;/admin;CVE-2002-52901;safe
+H2O;2.2.6;301;<html><body>Server Error</body></html>;173;1728;/admin;CVE-2007-11627;safe
+Apache;2.4.52;301;<html><body>Forbidden</body></html>;222;1424;/admin;CVE-2005-65856;exploitable
+Lighttpd;1.4.55;404;<html><body>Forbidden</body></html>;130;2293;/admincp/login;CVE-2005-91235;safe
+LiteSpeed;5.4.10;403;<html><body>Server Error</body></html>;120;1547;/admin;CVE-2011-24458;safe
+OpenResty;1.19.3.1;301;<html><body>Not Found</body></html>;125;4910;/wp-admin.php;CVE-2022-74711;safe
+Node.js;14.17.0;403;<html><body>Server Error</body></html>;109;1234;/admin;CVE-2008-65729;exploitable
+LiteSpeed;5.4.10;400;<html><body>Forbidden</body></html>;288;2881;/admin;CVE-2011-35583;safe
+Apache;2.4.52;500;<html><body>Unauthorized</body></html>;160;572;/admin;CVE-2011-92642;exploitable
+Nginx;1.19.10;502;<html><body>Forbidden</body></html>;258;1433;/admin;CVE-2020-25617;exploitable
+Tomcat;9.0.52;301;<html><body>Server Error</body></html>;180;3368;/admin;CVE-2000-36308;safe
+Node.js;12.18.3;502;<html><body>Server Error</body></html>;229;4220;/admin;CVE-2006-9212;safe
+LiteSpeed;5.3.7;500;<html><body>Unauthorized</body></html>;195;1147;/admincp/index.php;CVE-2012-17749;safe
+H2O;2.2.5;403;<html><body>Not Found</body></html>;125;4031;/admin;CVE-2011-59788;safe
+LiteSpeed;5.3.7;500;<html><body>Success</body></html>;150;4790;/admincp/login.html;CVE-2012-91027;safe
+Tomcat;8.5.70;400;<html><body>Server Error</body></html>;219;3886;/admincp/login.html;CVE-2012-23355;safe
+Tomcat;8.5.70;403;<html><body>Success</body></html>;226;680;/user/login.html;CVE-2007-79007;safe
+Apache;2.4.52;400;<html><body>Success</body></html>;184;2206;/admin;CVE-2023-2833;exploitable
+OpenResty;1.15.8.2;403;<html><body>Server Error</body></html>;167;3787;/admin;CVE-2016-71713;safe
+Apache;2.4.53;503;<html><body>Unauthorized</body></html>;147;2572;/admincp/login.html;CVE-2024-99919;exploitable
+H2O;2.2.5;403;<html><body>Not Found</body></html>;277;577;/admin;CVE-2008-85277;safe
+Nginx;1.19.10;503;<html><body>Success</body></html>;291;2085;/shop/login;CVE-2016-63001;exploitable
+H2O;2.2.4;403;<html><body>Unauthorized</body></html>;245;2842;/admin;CVE-2012-29646;safe
+H2O;2.2.4;301;<html><body>Success</body></html>;147;2730;/admin;CVE-2011-25238;safe
+Caddy;2.4.5;500;<html><body>Unauthorized</body></html>;219;3162;/user/login.jsf;CVE-2000-12883;safe
+Microsoft IIS;7.5;200;<html><body>Unauthorized</body></html>;153;4377;/wp-admin.php;CVE-2021-22041;exploitable
+Node.js;10.24.1;403;<html><body>Unauthorized</body></html>;115;3376;/admin;CVE-2017-21348;safe
+Tomcat;9.0.52;401;<html><body>Success</body></html>;257;3771;/admin;CVE-2020-88962;safe
+Caddy;2.4.5;502;<html><body>Not Found</body></html>;129;2588;/admin;CVE-2015-10621;safe
+H2O;2.2.4;503;<html><body>Not Found</body></html>;170;4600;/admin/backend;CVE-2011-19896;safe
+H2O;2.2.4;502;<html><body>Forbidden</body></html>;197;2581;/admin;CVE-2014-54737;safe
+Microsoft IIS;8.5;500;<html><body>Not Found</body></html>;171;2324;/admin;CVE-1999-48232;exploitable
+Nginx;1.20.2;404;<html><body>Server Error</body></html>;189;1733;/admin/signin/login;CVE-2024-66464;exploitable
+Nginx;1.19.10;502;<html><body>Server Error</body></html>;129;1510;/woocommerce/login;CVE-2012-1356;exploitable
+OpenResty;1.15.8.2;200;<html><body>Server Error</body></html>;291;4973;/wp-admin.php;CVE-2005-5402;safe
+Microsoft IIS;8.5;400;<html><body>Server Error</body></html>;174;2893;/admin;CVE-2023-11977;exploitable
+Microsoft IIS;10.0;301;<html><body>Not Found</body></html>;221;1802;/administrator;CVE-2021-75750;exploitable
+OpenResty;1.15.8.2;403;<html><body>Unauthorized</body></html>;219;4394;/admin/login.php;CVE-2005-62935;exploitable
+H2O;2.2.4;401;<html><body>Server Error</body></html>;106;1068;/user/login.aspx;CVE-2017-95080;safe
+Microsoft IIS;8.5;503;<html><body>Forbidden</body></html>;224;774;/admincp/login;CVE-2022-51419;exploitable
+OpenResty;1.15.8.2;301;<html><body>Server Error</body></html>;222;2737;/user/login.asp;CVE-2017-15270;safe
+Microsoft IIS;7.5;400;<html><body>Not Found</body></html>;203;586;/admin;CVE-1999-62450;exploitable
+Caddy;2.4.5;403;<html><body>Server Error</body></html>;257;4374;/admin;CVE-2023-19091;safe
+Apache;2.4.53;503;<html><body>Server Error</body></html>;175;1709;/admin;CVE-2002-22274;exploitable
+Caddy;2.4.6;404;<html><body>Unauthorized</body></html>;269;2388;/login;CVE-2013-53348;safe
+Node.js;12.18.3;401;<html><body>Not Found</body></html>;224;3483;/admin/index;CVE-2005-56354;exploitable
+Lighttpd;1.4.45;403;<html><body>Not Found</body></html>;226;4808;/admin;CVE-2011-40306;safe
+Apache;2.4.52;200;<html><body>Success</body></html>;193;4481;/admin;CVE-1999-89613;exploitable
+LiteSpeed;5.3.7;404;<html><body>Success</body></html>;168;3931;/admin;CVE-2016-88623;safe
+Microsoft IIS;7.5;401;<html><body>Server Error</body></html>;266;4487;/admin/signin/index/index;CVE-2009-41056;exploitable
+Nginx;1.19.10;503;<html><body>Server Error</body></html>;203;4747;/admin;CVE-2017-13038;exploitable
+Lighttpd;1.4.63;200;<html><body>Unauthorized</body></html>;129;2088;/user/login.aspx;CVE-2017-13804;safe
+Microsoft IIS;8.5;403;<html><body>Forbidden</body></html>;173;3090;/woocommerce/login;CVE-2015-7424;exploitable
+Tomcat;9.0.52;404;<html><body>Success</body></html>;261;4198;/admin;CVE-2010-44548;safe
+OpenResty;1.19.9.1;404;<html><body>Forbidden</body></html>;265;3071;/admin;CVE-2019-80575;exploitable
+Node.js;10.24.1;500;<html><body>Not Found</body></html>;250;3985;/admin;CVE-2022-86546;exploitable
+Tomcat;7.0.109;400;<html><body>Unauthorized</body></html>;204;2660;/admin;CVE-2003-14522;safe
+Nginx;1.18.0;400;<html><body>Not Found</body></html>;173;2060;/admin;CVE-2017-29233;exploitable
+Caddy;2.4.4;500;<html><body>Forbidden</body></html>;137;2207;/administrator;CVE-2019-10321;safe
+Caddy;2.4.4;301;<html><body>Success</body></html>;224;2376;/admin;CVE-2022-16470;safe
+Microsoft IIS;10.0;403;<html><body>Success</body></html>;115;881;/admin/backend;CVE-2002-29117;exploitable
+Tomcat;8.5.70;404;<html><body>Unauthorized</body></html>;214;4619;/admincp/index.php;CVE-2005-22776;safe
+H2O;2.2.4;403;<html><body>Server Error</body></html>;262;4645;/admin;CVE-2002-32451;safe
+Caddy;2.4.4;403;<html><body>Not Found</body></html>;212;2642;/admin;CVE-2000-20470;safe
+Microsoft IIS;10.0;503;<html><body>Success</body></html>;205;3160;/admin;CVE-1999-27760;exploitable
+Node.js;14.17.0;401;<html><body>Forbidden</body></html>;104;577;/administrator/login.php;CVE-2007-30733;exploitable
+H2O;2.2.6;500;<html><body>Server Error</body></html>;234;1306;/admin;CVE-2002-60889;safe
+Lighttpd;1.4.55;503;<html><body>Server Error</body></html>;210;2403;/admin;CVE-2011-86907;safe
+Lighttpd;1.4.55;503;<html><body>Server Error</body></html>;198;4021;/admin;CVE-2022-91542;safe
+OpenResty;1.19.3.1;301;<html><body>Not Found</body></html>;174;2999;/admin;CVE-2002-98162;exploitable
+H2O;2.2.4;503;<html><body>Unauthorized</body></html>;207;2181;/user/login;CVE-2009-48075;safe
+Lighttpd;1.4.55;404;<html><body>Server Error</body></html>;185;3632;/admincp/index.php;CVE-2002-89691;safe
+Apache;2.4.52;502;<html><body>Server Error</body></html>;298;4599;/administrator;CVE-1999-38192;exploitable
+Apache;2.4.52;503;<html><body>Server Error</body></html>;186;3693;/admin;CVE-2001-91388;exploitable
+Tomcat;8.5.70;403;<html><body>Server Error</body></html>;173;3477;/wp-login.php;CVE-2000-30107;safe
+Microsoft IIS;8.5;400;<html><body>Forbidden</body></html>;166;4366;/login;CVE-2007-63475;exploitable
+OpenResty;1.15.8.2;503;<html><body>Forbidden</body></html>;163;2552;/wp-admin;CVE-2017-78985;exploitable
+Apache;2.4.52;502;<html><body>Not Found</body></html>;183;1113;/wp-login.php;CVE-2021-89408;exploitable
+LiteSpeed;5.3.7;401;<html><body>Not Found</body></html>;267;2295;/admin;CVE-2021-89046;safe
+Lighttpd;1.4.63;403;<html><body>Unauthorized</body></html>;203;1628;/shop/login;CVE-2017-89936;safe
+Apache;2.4.52;500;<html><body>Unauthorized</body></html>;169;2344;/admin;CVE-2021-92710;exploitable
+Lighttpd;1.4.55;503;<html><body>Server Error</body></html>;288;4355;/admin;CVE-2006-3382;safe
+Apache;2.4.52;403;<html><body>Forbidden</body></html>;227;2265;/admin;CVE-2000-7155;exploitable
+Caddy;2.4.6;502;<html><body>Forbidden</body></html>;181;4769;/admin;CVE-2022-21663;safe
+H2O;2.2.4;500;<html><body>Not Found</body></html>;280;3036;/admin;CVE-2006-41379;safe
+Node.js;14.17.0;401;<html><body>Success</body></html>;213;2922;/admincp;CVE-2008-56860;safe
+Microsoft IIS;10.0;301;<html><body>Success</body></html>;195;3960;/admin;CVE-2005-34149;exploitable
+Nginx;1.19.10;403;<html><body>Unauthorized</body></html>;222;1815;/admin;CVE-2010-33974;exploitable
+Microsoft IIS;10.0;403;<html><body>Not Found</body></html>;245;4295;/admin;CVE-2007-98272;exploitable
+Tomcat;9.0.52;301;<html><body>Unauthorized</body></html>;207;2269;/admin;CVE-2012-74875;safe
+LiteSpeed;6.0.12;403;<html><body>Unauthorized</body></html>;279;660;/admin;CVE-2013-40249;safe
+Lighttpd;1.4.45;502;<html><body>Unauthorized</body></html>;157;4119;/admin;CVE-2021-97484;safe
+Node.js;14.17.0;401;<html><body>Unauthorized</body></html>;176;2409;/user/login.jsf;CVE-2008-57141;exploitable
+Apache;2.4.53;200;<html><body>Success</body></html>;225;2273;/admin;CVE-2014-59763;exploitable
+H2O;2.2.4;502;<html><body>Not Found</body></html>;107;2953;/wp-admin.php;CVE-2017-83671;safe
+OpenResty;1.15.8.2;200;<html><body>Unauthorized</body></html>;120;2019;/admin;CVE-2009-19343;exploitable
+Caddy;2.4.5;503;<html><body>Forbidden</body></html>;153;2518;/user/login.asp;CVE-2000-88771;safe
+Nginx;1.20.2;404;<html><body>Not Found</body></html>;232;2987;/admin;CVE-2000-21610;exploitable
+Nginx;1.19.10;301;<html><body>Unauthorized</body></html>;175;1138;/admin;CVE-2011-55824;exploitable
+Microsoft IIS;8.5;503;<html><body>Forbidden</body></html>;221;3669;/login;CVE-2011-38500;exploitable
+Tomcat;9.0.52;502;<html><body>Not Found</body></html>;220;2637;/admin;CVE-2008-43699;safe
+Tomcat;9.0.52;503;<html><body>Success</body></html>;165;4838;/admin;CVE-2019-94305;safe
+Tomcat;8.5.70;404;<html><body>Server Error</body></html>;200;2017;/admin;CVE-2002-16580;safe
+Node.js;10.24.1;500;<html><body>Server Error</body></html>;181;4827;/admin;CVE-2002-34820;exploitable
+Node.js;10.24.1;404;<html><body>Success</body></html>;236;4666;/admin/signin/login/index;CVE-2007-43662;exploitable
+Caddy;2.4.5;404;<html><body>Not Found</body></html>;230;2160;/administrator;CVE-2011-78530;safe
+Node.js;12.18.3;404;<html><body>Forbidden</body></html>;183;1889;/admin;CVE-2016-6619;exploitable
+Lighttpd;1.4.55;301;<html><body>Not Found</body></html>;255;2219;/admincp;CVE-2002-80569;safe
+LiteSpeed;5.4.10;502;<html><body>Forbidden</body></html>;184;1551;/admin;CVE-2019-41873;safe
+Lighttpd;1.4.55;502;<html><body>Success</body></html>;139;4693;/admin;CVE-2016-44357;safe
+Caddy;2.4.4;503;<html><body>Forbidden</body></html>;283;676;/admincp/index.php;CVE-2017-61401;safe
+H2O;2.2.5;500;<html><body>Forbidden</body></html>;282;2327;/admin;CVE-2009-5691;safe
+Node.js;14.17.0;200;<html><body>Forbidden</body></html>;154;3936;/admincp/login.php;CVE-2019-8683;safe
+Node.js;14.17.0;400;<html><body>Not Found</body></html>;174;3239;/admin;CVE-2006-52064;exploitable
+Microsoft IIS;7.5;400;<html><body>Forbidden</body></html>;296;2383;/admincp/login;CVE-2000-48015;exploitable
+LiteSpeed;6.0.12;404;<html><body>Success</body></html>;108;1139;/admin;CVE-2016-84526;safe
+LiteSpeed;5.3.7;503;<html><body>Unauthorized</body></html>;290;1969;/login;CVE-2012-59143;safe
+Apache;2.4.53;500;<html><body>Server Error</body></html>;160;727;/admincp/login;CVE-2009-37490;exploitable
+OpenResty;1.19.3.1;502;<html><body>Not Found</body></html>;150;4861;/admin/backend;CVE-2021-38713;exploitable
+Nginx;1.20.2;200;<html><body>Success</body></html>;174;3548;/admin;CVE-2002-37368;exploitable
+H2O;2.2.6;404;<html><body>Server Error</body></html>;239;1218;/admin;CVE-2009-16721;safe
+H2O;2.2.4;500;<html><body>Not Found</body></html>;167;4750;/admin;CVE-2012-35496;safe
+Nginx;1.18.0;503;<html><body>Success</body></html>;227;2978;/admin;CVE-2024-68316;exploitable
+Lighttpd;1.4.55;400;<html><body>Not Found</body></html>;284;4622;/admin;CVE-2002-53548;safe
+Microsoft IIS;7.5;200;<html><body>Unauthorized</body></html>;220;2011;/admin;CVE-2000-34306;exploitable
+Caddy;2.4.4;500;<html><body>Forbidden</body></html>;292;3584;/admin;CVE-2007-18417;safe
+Caddy;2.4.4;400;<html><body>Unauthorized</body></html>;237;946;/admin;CVE-1999-5960;safe
+LiteSpeed;6.0.12;403;<html><body>Not Found</body></html>;108;1178;/admin;CVE-2023-8043;safe
+Apache;2.4.52;301;<html><body>Forbidden</body></html>;230;1067;/shop/login;CVE-2004-76959;exploitable
+Nginx;1.20.2;503;<html><body>Success</body></html>;270;4353;/admin;CVE-2019-15674;exploitable
+Tomcat;8.5.70;400;<html><body>Server Error</body></html>;171;4045;/admincp/login.html;CVE-2007-38392;safe
+Apache;2.4.53;404;<html><body>Server Error</body></html>;183;4264;/admin/login;CVE-2017-92579;exploitable
+OpenResty;1.19.9.1;502;<html><body>Forbidden</body></html>;173;657;/user;CVE-2023-8247;exploitable
+H2O;2.2.4;502;<html><body>Success</body></html>;118;3558;/admin;CVE-2002-73832;safe
+LiteSpeed;6.0.12;404;<html><body>Not Found</body></html>;193;4691;/administrator;CVE-2003-94212;safe
+H2O;2.2.6;404;<html><body>Forbidden</body></html>;219;1961;/admin/signin;CVE-2002-94136;safe
+LiteSpeed;5.4.10;301;<html><body>Success</body></html>;139;4466;/admin;CVE-2013-59837;safe
+Nginx;1.19.10;403;<html><body>Forbidden</body></html>;142;2114;/admin;CVE-2009-1674;exploitable
+LiteSpeed;5.3.7;500;<html><body>Unauthorized</body></html>;237;2559;/admin;CVE-2014-84148;safe
+Lighttpd;1.4.55;502;<html><body>Unauthorized</body></html>;253;4915;/admin;CVE-2022-53346;safe
+Nginx;1.19.10;503;<html><body>Success</body></html>;236;4560;/admincp/login.php;CVE-2021-5094;exploitable
+Microsoft IIS;7.5;500;<html><body>Unauthorized</body></html>;217;2229;/wp-login.php;CVE-2007-37783;exploitable
+LiteSpeed;5.3.7;301;<html><body>Unauthorized</body></html>;273;3813;/admincp/login.html;CVE-2009-57905;safe
+Lighttpd;1.4.63;404;<html><body>Success</body></html>;133;667;/admincp/login.php;CVE-2004-81942;safe
+Node.js;14.17.0;200;<html><body>Unauthorized</body></html>;269;2469;/admin;CVE-2023-45199;safe
+Microsoft IIS;10.0;301;<html><body>Server Error</body></html>;298;3041;/admin;CVE-2009-49038;exploitable
+Lighttpd;1.4.45;301;<html><body>Success</body></html>;141;950;/administrator;CVE-2011-27532;safe
+Apache;2.4.53;502;<html><body>Forbidden</body></html>;211;2208;/backend;CVE-2010-33534;exploitable
+Microsoft IIS;10.0;404;<html><body>Success</body></html>;140;2451;/admincp;CVE-2010-74810;exploitable
+Caddy;2.4.6;404;<html><body>Server Error</body></html>;296;4164;/administrator;CVE-2024-15009;safe
+Apache;2.4.54;502;<html><body>Forbidden</body></html>;278;2307;/admin/index;CVE-2016-53216;exploitable
+Caddy;2.4.5;401;<html><body>Success</body></html>;290;2742;/user/login.jsp;CVE-2006-77188;safe
+Caddy;2.4.5;401;<html><body>Success</body></html>;274;1822;/user/login.pl;CVE-2007-58741;safe
+Lighttpd;1.4.63;503;<html><body>Success</body></html>;298;3379;/admin/index.php;CVE-2019-46224;safe
+Apache;2.4.52;403;<html><body>Forbidden</body></html>;285;4492;/admin;CVE-2008-78558;exploitable
+Caddy;2.4.5;403;<html><body>Not Found</body></html>;229;507;/administrator;CVE-2013-50878;safe
+Microsoft IIS;7.5;404;<html><body>Success</body></html>;116;2532;/admincp/login.php;CVE-2014-45670;exploitable
+H2O;2.2.5;500;<html><body>Unauthorized</body></html>;159;2588;/admin;CVE-2023-89796;safe
+Apache;2.4.54;502;<html><body>Unauthorized</body></html>;234;627;/admin/login;CVE-2024-7587;exploitable
+LiteSpeed;5.4.10;400;<html><body>Success</body></html>;196;660;/admin;CVE-2016-51198;safe
+OpenResty;1.19.9.1;401;<html><body>Forbidden</body></html>;222;3201;/admin/login/index;CVE-1999-96918;exploitable
+OpenResty;1.15.8.2;404;<html><body>Server Error</body></html>;223;4600;/admin;CVE-2004-99844;exploitable
+Tomcat;8.5.70;500;<html><body>Success</body></html>;260;4205;/admin;CVE-2003-73898;safe
+Node.js;14.17.0;502;<html><body>Not Found</body></html>;258;2963;/admincp/login;CVE-2016-78946;exploitable
+Microsoft IIS;7.5;503;<html><body>Success</body></html>;127;3923;/admin;CVE-2020-55861;exploitable
+Microsoft IIS;8.5;401;<html><body>Forbidden</body></html>;186;1860;/admin/dashboard;CVE-2000-65515;exploitable
+Tomcat;8.5.70;200;<html><body>Forbidden</body></html>;187;3882;/admin;CVE-2005-85467;safe
+Microsoft IIS;7.5;400;<html><body>Server Error</body></html>;157;4121;/admin;CVE-2024-52944;exploitable
+H2O;2.2.4;500;<html><body>Success</body></html>;141;4303;/admin/index;CVE-2006-1209;safe
+Apache;2.4.54;404;<html><body>Forbidden</body></html>;173;2677;/admin;CVE-2008-8461;exploitable
+Tomcat;8.5.70;502;<html><body>Not Found</body></html>;157;2551;/wp/wp-login.php;CVE-2004-18284;safe
+Microsoft IIS;10.0;301;<html><body>Server Error</body></html>;195;3056;/admin;CVE-2023-48850;exploitable
+Lighttpd;1.4.63;404;<html><body>Success</body></html>;152;3398;/admin;CVE-2014-70536;safe
+Lighttpd;1.4.45;404;<html><body>Success</body></html>;126;3603;/administrator;CVE-2022-93780;safe
+Microsoft IIS;8.5;404;<html><body>Server Error</body></html>;284;2910;/admin;CVE-2002-63691;exploitable
+H2O;2.2.4;200;<html><body>Not Found</body></html>;279;4788;/admin;CVE-2004-39979;safe
+Microsoft IIS;7.5;404;<html><body>Success</body></html>;102;4859;/admin;CVE-2006-61821;exploitable
+Lighttpd;1.4.45;400;<html><body>Server Error</body></html>;246;1060;/admin;CVE-1999-33526;safe
+Caddy;2.4.4;403;<html><body>Server Error</body></html>;144;1270;/admin;CVE-1999-81472;safe
+Microsoft IIS;7.5;503;<html><body>Not Found</body></html>;289;3209;/admin;CVE-2004-67379;exploitable
+Node.js;14.17.0;400;<html><body>Not Found</body></html>;197;768;/admin/index;CVE-2011-22429;exploitable
+H2O;2.2.4;400;<html><body>Unauthorized</body></html>;224;1434;/admin;CVE-2004-28293;safe
+Microsoft IIS;7.5;401;<html><body>Not Found</body></html>;216;2836;/wp-admin;CVE-2000-22155;exploitable
+Caddy;2.4.6;200;<html><body>Forbidden</body></html>;108;2695;/wp-admin;CVE-2008-70451;safe
+Node.js;10.24.1;200;<html><body>Unauthorized</body></html>;275;2903;/admin;CVE-2010-94603;safe
+Node.js;12.18.3;400;<html><body>Forbidden</body></html>;275;3424;/wp-login.php;CVE-1999-88852;safe
+Caddy;2.4.4;403;<html><body>Not Found</body></html>;197;764;/wp/wp-login.php;CVE-2011-55683;safe
+LiteSpeed;5.4.10;502;<html><body>Unauthorized</body></html>;191;4386;/admin;CVE-2008-17319;safe
+Caddy;2.4.6;404;<html><body>Forbidden</body></html>;148;913;/admin;CVE-2000-90436;safe
+H2O;2.2.5;403;<html><body>Forbidden</body></html>;211;2088;/wp-admin;CVE-2019-56673;safe
+Nginx;1.19.10;404;<html><body>Unauthorized</body></html>;106;4027;/admin;CVE-2008-11956;exploitable
+LiteSpeed;5.4.10;200;<html><body>Server Error</body></html>;145;4806;/admin/login;CVE-2023-22681;safe
+Node.js;12.18.3;401;<html><body>Unauthorized</body></html>;208;768;/admincp;CVE-1999-62005;exploitable
+Caddy;2.4.4;502;<html><body>Unauthorized</body></html>;105;2767;/admin/backend;CVE-2004-89713;safe
+Tomcat;8.5.70;503;<html><body>Success</body></html>;251;3226;/admincp/login.html;CVE-2006-61447;safe
+Lighttpd;1.4.63;404;<html><body>Not Found</body></html>;284;2150;/admin;CVE-2006-38267;safe
+Node.js;12.18.3;503;<html><body>Success</body></html>;137;3015;/admin;CVE-2000-38854;safe
+Tomcat;7.0.109;403;<html><body>Success</body></html>;278;4723;/admin;CVE-2004-57059;safe
+Microsoft IIS;7.5;400;<html><body>Server Error</body></html>;155;2902;/admin;CVE-2014-53396;exploitable
+Lighttpd;1.4.63;404;<html><body>Not Found</body></html>;273;3633;/admin;CVE-2000-87539;safe
+Nginx;1.18.0;500;<html><body>Success</body></html>;132;3319;/admin;CVE-2022-91012;exploitable
+Tomcat;7.0.109;200;<html><body>Unauthorized</body></html>;259;4735;/wp-admin.php;CVE-2004-30402;safe
+H2O;2.2.6;503;<html><body>Unauthorized</body></html>;158;4710;/admin/index.php;CVE-2019-72364;safe
+Caddy;2.4.6;401;<html><body>Success</body></html>;177;3634;/admin;CVE-2023-16862;safe
+Node.js;10.24.1;503;<html><body>Success</body></html>;114;3250;/admin;CVE-2010-77463;safe
+Lighttpd;1.4.63;301;<html><body>Not Found</body></html>;169;2995;/administrator;CVE-2014-54767;safe
+Nginx;1.20.2;403;<html><body>Not Found</body></html>;109;4593;/admin;CVE-2014-54360;exploitable
+Apache;2.4.54;403;<html><body>Forbidden</body></html>;143;2398;/admin;CVE-2019-42226;exploitable
+Tomcat;7.0.109;503;<html><body>Forbidden</body></html>;171;2315;/admin;CVE-2014-67224;safe
+Nginx;1.20.2;500;<html><body>Not Found</body></html>;193;3391;/admincp/login.html;CVE-2012-81463;exploitable
+OpenResty;1.15.8.2;404;<html><body>Not Found</body></html>;125;1613;/admin;CVE-1999-38018;exploitable
+Nginx;1.18.0;502;<html><body>Not Found</body></html>;261;1603;/admincp/login;CVE-2018-38673;exploitable
+Nginx;1.20.2;404;<html><body>Forbidden</body></html>;201;2175;/admin;CVE-2004-36835;exploitable
+Node.js;14.17.0;401;<html><body>Not Found</body></html>;199;3755;/admin;CVE-2006-63643;exploitable
+Caddy;2.4.5;503;<html><body>Unauthorized</body></html>;300;2539;/admin;CVE-2020-94669;safe
+Nginx;1.18.0;301;<html><body>Forbidden</body></html>;132;3158;/admin;CVE-2009-34256;exploitable
+Microsoft IIS;10.0;200;<html><body>Unauthorized</body></html>;220;1688;/admin;CVE-2022-33627;exploitable
+Apache;2.4.52;403;<html><body>Not Found</body></html>;153;4376;/admin;CVE-2021-14259;exploitable
+OpenResty;1.19.3.1;404;<html><body>Not Found</body></html>;205;2386;/user/login.xhtml;CVE-2012-94508;exploitable
+Microsoft IIS;7.5;503;<html><body>Unauthorized</body></html>;207;2513;/admin;CVE-2016-38011;exploitable
+Apache;2.4.54;503;<html><body>Server Error</body></html>;112;4192;/admin;CVE-1999-24184;exploitable
+Microsoft IIS;10.0;400;<html><body>Success</body></html>;200;1136;/admin;CVE-2014-19774;exploitable
+Lighttpd;1.4.55;403;<html><body>Success</body></html>;116;4157;/admin;CVE-2020-61099;safe
+OpenResty;1.19.9.1;403;<html><body>Success</body></html>;178;2874;/admin;CVE-2022-36663;safe
+Lighttpd;1.4.45;403;<html><body>Success</body></html>;245;3239;/admin;CVE-2022-89460;safe
+Nginx;1.19.10;400;<html><body>Forbidden</body></html>;295;1104;/admin;CVE-2000-3216;exploitable
+Lighttpd;1.4.55;401;<html><body>Server Error</body></html>;257;2356;/admin;CVE-2012-6189;safe
+LiteSpeed;5.3.7;502;<html><body>Not Found</body></html>;244;2924;/admincp/login;CVE-2014-10472;safe
+LiteSpeed;6.0.12;403;<html><body>Server Error</body></html>;207;1123;/administrator/index.php;CVE-2002-25449;safe
+Caddy;2.4.6;503;<html><body>Unauthorized</body></html>;295;1143;/admin;CVE-2010-42365;safe
+Node.js;14.17.0;200;<html><body>Server Error</body></html>;237;2272;/wp-admin;CVE-2022-71564;exploitable
+Apache;2.4.53;502;<html><body>Forbidden</body></html>;283;2246;/admin;CVE-2016-56601;exploitable
+Caddy;2.4.4;503;<html><body>Server Error</body></html>;273;2683;/admin/index.php;CVE-2013-35405;safe
+Lighttpd;1.4.63;400;<html><body>Not Found</body></html>;286;4201;/admin;CVE-2024-92870;safe
+Tomcat;7.0.109;404;<html><body>Not Found</body></html>;256;2041;/admin/login;CVE-2011-25632;safe
+Lighttpd;1.4.63;403;<html><body>Not Found</body></html>;142;688;/login;CVE-2010-12670;safe
+Lighttpd;1.4.55;500;<html><body>Success</body></html>;182;3605;/admin;CVE-2018-77286;safe
+Caddy;2.4.4;500;<html><body>Forbidden</body></html>;143;914;/administrator;CVE-2009-39738;safe
+H2O;2.2.4;200;<html><body>Not Found</body></html>;238;4947;/admin;CVE-2017-32638;safe
+Caddy;2.4.5;502;<html><body>Not Found</body></html>;288;1094;/user/login.ashx;CVE-2016-91739;safe
+LiteSpeed;5.4.10;404;<html><body>Not Found</body></html>;108;1624;/admin;CVE-2022-42569;safe
+LiteSpeed;5.3.7;502;<html><body>Not Found</body></html>;100;1108;/admin;CVE-2002-69577;safe
+LiteSpeed;6.0.12;401;<html><body>Not Found</body></html>;209;3704;/admin;CVE-2017-89649;safe
+Tomcat;7.0.109;200;<html><body>Forbidden</body></html>;154;2058;/admin;CVE-2015-36041;safe
+Apache;2.4.53;401;<html><body>Forbidden</body></html>;261;3391;/admin;CVE-2019-52668;exploitable
+Nginx;1.19.10;502;<html><body>Server Error</body></html>;198;4286;/admin;CVE-2004-12159;exploitable
+Lighttpd;1.4.63;502;<html><body>Success</body></html>;300;4338;/wp-login.php;CVE-2010-71175;safe
+Apache;2.4.52;403;<html><body>Forbidden</body></html>;178;848;/admin;CVE-2012-56553;exploitable
+Nginx;1.20.2;301;<html><body>Server Error</body></html>;182;4532;/admin;CVE-2009-22290;exploitable
+Microsoft IIS;7.5;200;<html><body>Unauthorized</body></html>;271;2593;/admin;CVE-2018-66328;exploitable
+H2O;2.2.6;404;<html><body>Forbidden</body></html>;266;2562;/admin;CVE-2018-41479;safe
+Microsoft IIS;10.0;301;<html><body>Not Found</body></html>;281;1353;/admin;CVE-2008-66426;exploitable
+Lighttpd;1.4.55;404;<html><body>Forbidden</body></html>;106;3073;/admin;CVE-2022-31880;safe
+Microsoft IIS;8.5;403;<html><body>Server Error</body></html>;192;1408;/user/login.jsf;CVE-1999-54226;exploitable
+Tomcat;7.0.109;401;<html><body>Forbidden</body></html>;100;1875;/admin;CVE-2020-35016;safe
+Node.js;12.18.3;503;<html><body>Not Found</body></html>;196;4616;/admin;CVE-2010-18899;exploitable
+H2O;2.2.5;403;<html><body>Not Found</body></html>;293;588;/admin;CVE-2021-83856;safe
+Node.js;10.24.1;404;<html><body>Unauthorized</body></html>;230;703;/admin;CVE-2001-28275;safe
+OpenResty;1.19.3.1;403;<html><body>Success</body></html>;223;1484;/admin;CVE-2001-15271;exploitable
+Lighttpd;1.4.55;404;<html><body>Server Error</body></html>;148;2303;/administrator;CVE-2019-12206;safe
+OpenResty;1.19.3.1;200;<html><body>Not Found</body></html>;209;1273;/admin;CVE-2000-7923;exploitable
+Nginx;1.18.0;500;<html><body>Not Found</body></html>;220;664;/admincp;CVE-2002-57269;exploitable
+Tomcat;8.5.70;500;<html><body>Unauthorized</body></html>;159;1715;/admin;CVE-2018-10062;safe
+Caddy;2.4.6;503;<html><body>Server Error</body></html>;212;4233;/admin;CVE-2014-44594;safe
+Microsoft IIS;7.5;401;<html><body>Not Found</body></html>;117;3535;/admin;CVE-2022-79882;exploitable
+OpenResty;1.15.8.2;401;<html><body>Unauthorized</body></html>;168;4500;/admin/index.php;CVE-2024-17199;exploitable
+Nginx;1.20.2;301;<html><body>Server Error</body></html>;150;882;/admin;CVE-2012-23408;exploitable
+LiteSpeed;6.0.12;301;<html><body>Server Error</body></html>;120;3695;/user;CVE-2010-17937;safe
+Node.js;12.18.3;403;<html><body>Server Error</body></html>;274;3559;/admin;CVE-2023-96492;exploitable
+OpenResty;1.19.3.1;503;<html><body>Server Error</body></html>;117;4395;/admin/index;CVE-2024-29963;safe
+Node.js;12.18.3;200;<html><body>Server Error</body></html>;252;1289;/admin;CVE-2020-23782;safe
+Nginx;1.19.10;301;<html><body>Success</body></html>;278;2730;/admin;CVE-2005-25694;exploitable
+Caddy;2.4.6;502;<html><body>Success</body></html>;287;1816;/admin;CVE-2024-42915;safe
+OpenResty;1.15.8.2;200;<html><body>Server Error</body></html>;262;2793;/administrator;CVE-2024-12338;safe
+LiteSpeed;6.0.12;301;<html><body>Server Error</body></html>;262;1424;/admin/index;CVE-2020-6977;safe
+Node.js;12.18.3;503;<html><body>Not Found</body></html>;192;1032;/admin;CVE-2001-70949;exploitable
+Tomcat;9.0.52;301;<html><body>Not Found</body></html>;114;1354;/admin;CVE-2013-82988;safe
+OpenResty;1.19.3.1;200;<html><body>Unauthorized</body></html>;268;3098;/admincp/login.html;CVE-2013-68307;safe
+Microsoft IIS;7.5;503;<html><body>Unauthorized</body></html>;237;2600;/shop/login;CVE-2022-11838;exploitable
+Tomcat;9.0.52;500;<html><body>Unauthorized</body></html>;157;4733;/admin;CVE-2015-69764;safe
+Apache;2.4.52;401;<html><body>Server Error</body></html>;259;4294;/admin;CVE-2020-39724;exploitable
+OpenResty;1.19.3.1;502;<html><body>Unauthorized</body></html>;299;1219;/admin;CVE-2004-34554;safe
+Node.js;12.18.3;400;<html><body>Forbidden</body></html>;164;3136;/admin;CVE-2013-54599;exploitable
+Caddy;2.4.4;200;<html><body>Not Found</body></html>;187;660;/admin/index;CVE-2000-7857;safe
+Microsoft IIS;10.0;404;<html><body>Success</body></html>;262;4447;/user/login.jsp;CVE-2019-27506;exploitable
+Tomcat;8.5.70;404;<html><body>Forbidden</body></html>;176;4510;/admin;CVE-2016-72584;safe
+Apache;2.4.53;503;<html><body>Server Error</body></html>;206;2040;/admin/index.php;CVE-2015-75395;exploitable
+LiteSpeed;5.4.10;502;<html><body>Not Found</body></html>;164;2679;/admin;CVE-2003-45407;safe
+Nginx;1.19.10;404;<html><body>Not Found</body></html>;290;2621;/admin;CVE-2009-65413;exploitable
+Lighttpd;1.4.63;404;<html><body>Forbidden</body></html>;297;2383;/admin/login;CVE-2015-63164;safe
+LiteSpeed;6.0.12;301;<html><body>Server Error</body></html>;128;2267;/admin;CVE-2019-54784;safe
+H2O;2.2.6;200;<html><body>Server Error</body></html>;241;4650;/admin/index;CVE-2000-62694;safe
+OpenResty;1.15.8.2;404;<html><body>Unauthorized</body></html>;163;4146;/admin/login.php;CVE-1999-98922;exploitable
+Tomcat;9.0.52;200;<html><body>Server Error</body></html>;220;1242;/admin/login;CVE-2018-48532;safe
+Caddy;2.4.5;503;<html><body>Unauthorized</body></html>;248;1926;/admin;CVE-2001-57155;safe
+OpenResty;1.19.3.1;301;<html><body>Server Error</body></html>;219;2601;/user/login;CVE-1999-17324;exploitable
+Caddy;2.4.4;502;<html><body>Success</body></html>;213;3037;/admin;CVE-2006-11013;safe
+Nginx;1.18.0;301;<html><body>Success</body></html>;204;3282;/admin;CVE-2011-9573;exploitable
+H2O;2.2.6;403;<html><body>Forbidden</body></html>;124;3267;/admincp/login.php;CVE-2022-77470;safe
+Lighttpd;1.4.55;400;<html><body>Unauthorized</body></html>;235;2492;/admin/index;CVE-2006-24340;safe
+H2O;2.2.6;400;<html><body>Success</body></html>;287;4016;/admin;CVE-2021-29680;safe
+Caddy;2.4.4;404;<html><body>Not Found</body></html>;189;2661;/admin;CVE-2006-88304;safe
+Apache;2.4.53;200;<html><body>Success</body></html>;204;3701;/login;CVE-2024-65423;exploitable
+Node.js;10.24.1;500;<html><body>Server Error</body></html>;252;3707;/admin;CVE-2019-63734;safe
+Tomcat;7.0.109;403;<html><body>Not Found</body></html>;103;2449;/admincp/index.php;CVE-2007-73538;safe
+H2O;2.2.6;401;<html><body>Not Found</body></html>;274;1242;/user;CVE-2014-77048;safe
+Node.js;14.17.0;301;<html><body>Success</body></html>;261;604;/admin;CVE-2003-16031;exploitable
+Tomcat;7.0.109;401;<html><body>Server Error</body></html>;270;2538;/admin;CVE-2002-13750;safe
+H2O;2.2.6;502;<html><body>Server Error</body></html>;117;2955;/admin;CVE-2000-18292;safe
+Node.js;14.17.0;503;<html><body>Forbidden</body></html>;291;1970;/admin;CVE-2020-75693;exploitable
+LiteSpeed;5.3.7;401;<html><body>Success</body></html>;219;1018;/admin;CVE-2021-56981;safe
+Microsoft IIS;7.5;200;<html><body>Success</body></html>;254;3135;/admin;CVE-2019-26417;exploitable
+OpenResty;1.15.8.2;500;<html><body>Unauthorized</body></html>;225;3538;/admin;CVE-2011-47273;safe
+Caddy;2.4.4;503;<html><body>Unauthorized</body></html>;118;2150;/user/login.pl;CVE-2013-94687;safe
+Lighttpd;1.4.45;301;<html><body>Success</body></html>;188;2988;/admincp;CVE-2003-17225;safe
+Nginx;1.19.10;502;<html><body>Not Found</body></html>;242;3175;/admin;CVE-2000-4745;exploitable
+Microsoft IIS;7.5;500;<html><body>Success</body></html>;245;2801;/admin;CVE-2018-96230;exploitable
+Node.js;14.17.0;200;<html><body>Server Error</body></html>;176;4513;/admin;CVE-2008-22828;safe
+Nginx;1.19.10;400;<html><body>Forbidden</body></html>;188;1156;/admin;CVE-2002-6995;exploitable
+Node.js;14.17.0;404;<html><body>Forbidden</body></html>;152;1338;/admin;CVE-2023-92233;exploitable
+Caddy;2.4.6;500;<html><body>Forbidden</body></html>;228;3136;/admin;CVE-2001-75964;safe
+Lighttpd;1.4.45;500;<html><body>Unauthorized</body></html>;229;4879;/admin;CVE-2013-50673;safe
+H2O;2.2.5;503;<html><body>Server Error</body></html>;234;2887;/admin;CVE-2014-43356;safe
+Nginx;1.18.0;200;<html><body>Unauthorized</body></html>;121;3258;/admin;CVE-2016-86201;exploitable
+Caddy;2.4.4;503;<html><body>Server Error</body></html>;284;2753;/admincp;CVE-2003-46907;safe
+Nginx;1.20.2;403;<html><body>Server Error</body></html>;127;1899;/admin;CVE-2012-16608;exploitable
+Microsoft IIS;8.5;400;<html><body>Not Found</body></html>;288;621;/admin/login;CVE-2021-24377;safe
+Microsoft IIS;8.5;200;<html><body>Forbidden</body></html>;148;819;/admin;CVE-2013-27855;exploitable
+Apache;2.4.52;503;<html><body>Forbidden</body></html>;294;2517;/admincp/index.php;CVE-2005-42876;exploitable
+Caddy;2.4.5;301;<html><body>Not Found</body></html>;202;2996;/admin;CVE-2011-31485;exploitable
+Node.js;12.18.3;502;<html><body>Success</body></html>;158;4322;/admin/login.php;CVE-1999-52809;exploitable
+Lighttpd;1.4.45;403;<html><body>Unauthorized</body></html>;239;701;/wp-login.php;CVE-2009-13190;safe
+Node.js;10.24.1;503;<html><body>Unauthorized</body></html>;244;1564;/admin;CVE-1999-41266;safe
+Nginx;1.18.0;200;<html><body>Forbidden</body></html>;278;2416;/user/login;CVE-2001-83615;safe
+Nginx;1.19.10;400;<html><body>Success</body></html>;243;1000;/admin/signin;CVE-2018-82931;safe
+Lighttpd;1.4.55;500;<html><body>Unauthorized</body></html>;140;545;/admin;CVE-2012-27146;exploitable
+OpenResty;1.15.8.2;404;<html><body>Unauthorized</body></html>;255;2278;/admin;CVE-2022-87748;exploitable
+Caddy;2.4.4;502;<html><body>Not Found</body></html>;166;3887;/admin;CVE-2014-76717;exploitable
+Node.js;12.18.3;500;<html><body>Success</body></html>;257;2681;/administrator/login.php;CVE-2018-74893;safe
+Apache;2.4.41;503;<html><body>Forbidden</body></html>;253;3029;/admin;CVE-2004-22453;exploitable
+Apache;2.4.41;301;<html><body>Unauthorized</body></html>;114;3573;/admin;CVE-2005-67814;safe
+Apache;2.4.41;404;<html><body>Unauthorized</body></html>;109;1567;/admin;CVE-2013-24734;exploitable
